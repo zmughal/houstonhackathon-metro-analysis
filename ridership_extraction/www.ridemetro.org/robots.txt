@@ -1,0 +1,38 @@
+# robots.txt for http://www.ridemetro.org/
+
+User-Agent: *
+Disallow: /QuickLine/
+Disallow: /MurphysDeli/
+Disallow: /ASP/
+Disallow: /Asp_client/
+Disallow: /App_Themes/
+Disallow: /App_Data/
+Disallow: /SelectSurvey/
+Disallow: /AlertRotator/
+Disallow: /Bin/
+Disallow: /Tripplanner/
+Disallow: /Ridepro/
+Disallow: /_MktDev/*
+Disallow: /_MktDev/HolidayCard/index.html
+Disallow: /Addys/
+Disallow: /AMA2011/*
+Disallow: /News/Internal/NCAA_Final_Four.aspx
+Disallow: /*.axd$
+Disallow: /News/Publications/InsideTrack/insidetrack_email.aspx
+Disallow: /_MktDev/
+Disallow: /News/Publications/InsideTrack/
+Disallow: /Intranet/
+Disallow: /SchedulesMaps/ParkRide/Kuykendahl-SUDSTest.aspx
+
+
+#Old Site Links
+Disallow: /qcard/
+Disallow: /Metro_Jobs/
+Disallow: /contact/ 
+Disallow: /About_Metro/
+Disallow: /Fare_Information/ 
+Disallow: /Business_Opportunities/ 
+Disallow: /schedules_and_maps/ 
+Disallow: /TransportationServices/ 
+
+Allow: /

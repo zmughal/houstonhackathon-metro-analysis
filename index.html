@@ -26,13 +26,13 @@
 
 	<script src="http://cdn.leafletjs.com/leaflet-0.5/leaflet.js"></script>
 	<script src="leaflet-plugins/layer/vector/KML.js"></script>
-	<div id="stops">
+	<!--<div id="stops">
 		<ul>
 			<li><a class="#route" id="route-21000">42 HOLMAN CROSSTOWN</a></li>
 		</ul>
-	</div>
+	</div>-->
 	<script>
-		var route = "21000"
+		/*var route = "21000"
 		$(document).ready(function() {
 			$("route-"+route).click(function() {
 				var track = new L.KML("route_shape/route/MetroRoute_" + route + ".kml", {async: true});
@@ -40,7 +40,7 @@
 				map.addLayer(track);
 				map.addControl(new L.Control.Layers({}, {'Track':track}));
 			});
-		});
+		});*/
 		var houston_latlong = [29.752778, -95.363056];
 		var map = L.map('map').setView(houston_latlong, 14);
 

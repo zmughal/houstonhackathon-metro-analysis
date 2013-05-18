@@ -28,7 +28,8 @@
 	<script src="leaflet-plugins/layer/vector/KML.js"></script>
 	<script>
 		var houston_latlong = [29.752778, -95.363056];
-		var map = L.map('map').setView(houston_latlong, 14);
+		//var map = L.map('map').setView(houston_latlong, 14);
+		var map = L.map('map');
 
 		L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png', {
 			maxZoom: 18,
@@ -43,8 +44,9 @@
 			attribution: 'Tiles: &copy; Esri'
 		}).addTo(map);
 
-		var track = new L.KML("route_shape/MetroData20120922.kmz", {async: true});
-		//var track = new L.KML("route_shape/MetroData20120922.kml", {async: true});
+		//var track = new L.KML("route_shape/MetroData20120922.kmz", {async: true});
+		var track = new L.KML("route_shape/MetroData20120922.kml", {async: true});
+		//var track = new L.KML("route_shape/mapperz-kml-example.kml", {async: true});
 		track.on("loaded", function(e) { map.fitBounds(e.target.getBounds()); });
 		map.addLayer(track);
 		map.addControl(new L.Control.Layers({}, {'Track':track}));

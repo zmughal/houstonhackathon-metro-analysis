@@ -25,6 +25,7 @@
 	<div id="map" style="height: 100%"></div>
 
 	<script src="http://cdn.leafletjs.com/leaflet-0.5/leaflet.js"></script>
+	<script src="leaflet-plugins/layer/vector/KML.js"></script>
 	<script>
 		var houston_latlong = [29.752778, -95.363056];
 		var map = L.map('map').setView(houston_latlong, 14);
@@ -41,6 +42,12 @@
 			opacity: 0.75,
 			attribution: 'Tiles: &copy; Esri'
 		}).addTo(map);
+
+		var track = new L.KML("route_shape/MetroData20120922.kmz", {async: true});
+		//var track = new L.KML("route_shape/MetroData20120922.kml", {async: true});
+		track.on("loaded", function(e) { map.fitBounds(e.target.getBounds()); });
+		map.addLayer(track);
+		map.addControl(new L.Control.Layers({}, {'Track':track}));
 
 		/*var streetMapUrl = 'http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}';
 		var streetMapLayer = new L.tileLayer(streetMapUrl, { maxZoom: 19, attribution: 'Tiles: &copy; Esri' }).addTo(map);*/

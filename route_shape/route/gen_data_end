@@ -1,0 +1,10 @@
+for i in `ls *.kml`;
+do cat >> $i  <<EOF
+
+
+</Document>
+</kml>
+
+EOF
+done
+

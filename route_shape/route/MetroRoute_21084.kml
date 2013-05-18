@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+			<name>MetroRoute_21084</name>
+			<Style id="missing_vehicles47">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<styleUrl>#missing_vehicles47</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9624</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ RINGNESS AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.387299,29.706493,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ RINGNESS AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9626</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ ST DOMINIC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.382339,29.704082,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ ST DOMINIC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles47</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9633</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ ST DOMINIC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38240099999999,29.704346,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ ST DOMINIC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles47</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9635</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ RINGNESS AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">6</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">8</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.387001,29.706638,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ RINGNESS AVE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles47</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11025</SimpleData>
+						<SimpleData name="STOP_NAME">TEXAS MEDICAL CENTER TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">24</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">63</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40361,29.704323,0</coordinates>
+				</Point>
+				<Name>TEXAS MEDICAL CENTER TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles47</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11025</SimpleData>
+						<SimpleData name="STOP_NAME">TEXAS MEDICAL CENTER TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">24</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">63</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40361,29.704323,0</coordinates>
+				</Point>
+				<Name>TEXAS MEDICAL CENTER TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles47</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">72</SimpleData>
+						<SimpleData name="STOP_NAME">SOUTHEAST TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">16</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">54</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35717,29.701387,0</coordinates>
+				</Point>
+				<Name>SOUTHEAST TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles47</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">72</SimpleData>
+						<SimpleData name="STOP_NAME">SOUTHEAST TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">16</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">54</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35717,29.701387,0</coordinates>
+				</Point>
+				<Name>SOUTHEAST TC</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">692</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ MD ANDERSON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39636999999999,29.706072,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ MD ANDERSON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5450</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ MD ANDERSON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.396355,29.706369,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ MD ANDERSON ST</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+
+
+
+</Document>
+</kml>
+

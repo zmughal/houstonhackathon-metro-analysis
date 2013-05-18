@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+			<name>MetroRoute_21082</name>
+			<Style id="missing_vehicles0">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11025</SimpleData>
+						<SimpleData name="STOP_NAME">TEXAS MEDICAL CENTER TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">24</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">63</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40361,29.704323,0</coordinates>
+				</Point>
+				<Name>TEXAS MEDICAL CENTER TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11025</SimpleData>
+						<SimpleData name="STOP_NAME">TEXAS MEDICAL CENTER TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">24</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">63</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40361,29.704323,0</coordinates>
+				</Point>
+				<Name>TEXAS MEDICAL CENTER TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11658</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ KIRBY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41774700000002,29.706036,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ KIRBY DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11659</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ KIRBY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.417931,29.706291,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ KIRBY DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11660</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE BLVD @ HILLCROFT AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492569,29.705585,0</coordinates>
+				</Point>
+				<Name>BELLAIRE BLVD @ HILLCROFT AVE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11661</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE BLVD @ HILLCROFT AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493477,29.705311,0</coordinates>
+				</Point>
+				<Name>BELLAIRE BLVD @ HILLCROFT AVE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11662</SimpleData>
+						<SimpleData name="STOP_NAME">PLAZAMERICAS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.516136,29.705305,0</coordinates>
+				</Point>
+				<Name>PLAZAMERICAS</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11663</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE BLVD @ FONDREN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51992000000001,29.705339,0</coordinates>
+				</Point>
+				<Name>BELLAIRE BLVD @ FONDREN RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11664</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE BLVD @ FONDREN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52018700000002,29.705036,0</coordinates>
+				</Point>
+				<Name>BELLAIRE BLVD @ FONDREN RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11665</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE BLVD @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">5</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53743000000001,29.70487,0</coordinates>
+				</Point>
+				<Name>BELLAIRE BLVD @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11666</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE BLVD @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53915399999998,29.705128,0</coordinates>
+				</Point>
+				<Name>BELLAIRE BLVD @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11667</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE BLVD @ RANCHESTER DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54495199999999,29.705067,0</coordinates>
+				</Point>
+				<Name>BELLAIRE BLVD @ RANCHESTER DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11668</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE BLVD @ RANCHESTER DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544708,29.70480299999999,0</coordinates>
+				</Point>
+				<Name>BELLAIRE BLVD @ RANCHESTER DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11673</SimpleData>
+						<SimpleData name="STOP_NAME">PLAZAMERICAS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.515648,29.704926,0</coordinates>
+				</Point>
+				<Name>PLAZAMERICAS</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11850</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE BLVD @ STELLA LINK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">5</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.440048,29.706112,0</coordinates>
+				</Point>
+				<Name>BELLAIRE BLVD @ STELLA LINK RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11851</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE BLVD @ STELLA LINK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.439583,29.705868,0</coordinates>
+				</Point>
+				<Name>BELLAIRE BLVD @ STELLA LINK RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">74</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">12</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">42</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.46882600000001,29.705711,0</coordinates>
+				</Point>
+				<Name>BELLAIRE TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">74</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">12</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">42</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.46882600000001,29.705711,0</coordinates>
+				</Point>
+				<Name>BELLAIRE TC</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+
+
+
+</Document>
+</kml>
+

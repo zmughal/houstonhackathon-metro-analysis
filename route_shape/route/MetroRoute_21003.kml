@@ -1,0 +1,2538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+			<name>MetroRoute_21003</name>
+			<Style id="missing_vehicles72">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8461</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BAMBOO RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545258,29.848301,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BAMBOO RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8462</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TANGIERS RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545258,29.846397,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TANGIERS RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8464</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ GENARD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54521200000001,29.841166,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ GENARD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8473</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ CLAY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54547099999999,29.83243,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ CLAY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8484</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ SOUTHWEST FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53227200000002,29.689123,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ SOUTHWEST FREEWAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8485</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BEECHNUT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53471399999999,29.690866,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BEECHNUT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8486</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TRIOLA LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53763600000001,29.696421,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TRIOLA LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8487</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ STROUD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53778800000002,29.698818,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ STROUD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8488</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ NEFF ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.537811,29.701248,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ NEFF ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8489</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.537857,29.704603,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8490</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ CLAREWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53870400000001,29.708818,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ CLAREWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8491</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ CLAREWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.538765,29.711134,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ CLAREWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8492</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TOWN PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53879500000001,29.712967,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TOWN PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8493</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HARWIN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53883399999999,29.717119,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HARWIN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8494</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WESTPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53892500000001,29.721743,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WESTPARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8495</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ PAGEWOOD LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.538948,29.725075,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ PAGEWOOD LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8496</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ RICHMOND AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.538994,29.727449,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ RICHMOND AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8497</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ MEADOWLAND DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.539024,29.729416,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ MEADOWLAND DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8498</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ MEADOWGLEN LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.539085,29.732243,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ MEADOWGLEN LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8499</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HIGHMEADOW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.539131,29.733829,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HIGHMEADOW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8500</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WESTHEIMER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53881800000001,29.736383,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WESTHEIMER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8620</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WESTRAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54536399999999,29.818537,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WESTRAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8621</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ EMNORA LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545357,29.815805,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ EMNORA LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8622</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HAMMERLY BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545349,29.81284,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HAMMERLY BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8623</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ EMNORA LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545074,29.814838,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ EMNORA LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8624</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WESTRAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54511299999999,29.818342,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WESTRAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8625</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KEMPWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545143,29.822111,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KEMPWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8626</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KEMP FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54516599999999,29.826723,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KEMP FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8627</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KEMP FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54541799999998,29.827023,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KEMP FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8628</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KEMPWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54538700000001,29.823029,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KEMPWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8821</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WESTHEIMER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53904699999998,29.736483,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WESTHEIMER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8822</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HIGHMEADOW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.539444,29.733898,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HIGHMEADOW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8823</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ MEADOWGLEN LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.539413,29.732473,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ MEADOWGLEN LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8824</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ MEADOWLAND DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53935199999998,29.729664,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ MEADOWLAND DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8825</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ RICHMOND AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53933000000001,29.727257,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ RICHMOND AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8826</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ PAGEWOOD LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53926099999998,29.725679,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ PAGEWOOD LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8827</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WESTPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53927600000002,29.722658,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WESTPARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8828</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HARWIN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.539101,29.717903,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HARWIN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8829</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TOWN PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.539055,29.714178,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TOWN PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8830</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TOWN PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53903200000001,29.711557,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TOWN PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8831</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ CLAREWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53897099999999,29.709032,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ CLAREWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8832</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53814700000001,29.705381,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8833</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ NEFF ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.538071,29.701502,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ NEFF ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8834</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ STROUD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53804,29.699005,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ STROUD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8835</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TRIOLA LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.537926,29.696678,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TRIOLA LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8836</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HENDON LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53727000000001,29.694113,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HENDON LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8837</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BEECHNUT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.535568,29.69139699999999,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BEECHNUT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10147</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ CLAY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54521200000001,29.83193199999999,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ CLAY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10148</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TALLEY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54505899999999,29.857426,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TALLEY LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10177</SimpleData>
+						<SimpleData name="STOP_NAME">SAPLING WAY @ BRAESWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53188300000001,29.671564,0</coordinates>
+				</Point>
+				<Name>SAPLING WAY @ BRAESWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10700</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ GENARD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54496800000001,29.84426300000001,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ GENARD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10701</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ CLAY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54495199999999,29.841261,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ CLAY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11264</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54520400000001,29.838543,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11263</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ CLAY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544937,29.83815,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ CLAY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11543</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KINGSRIDE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544647,29.77923,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KINGSRIDE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11586</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TANGIERS RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54497499999998,29.846205,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TANGIERS RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11591</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BAMBOO RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544983,29.848045,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BAMBOO RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11587</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TANNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54499800000001,29.849878,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TANNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11588</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ CHICKASAW LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545013,29.851814,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ CHICKASAW LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11590</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ ALFRED LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545029,29.853676,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ ALFRED LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11589</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ GROVER LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545052,29.855564,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ GROVER LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11593</SimpleData>
+						<SimpleData name="STOP_NAME">SOMMERMEYER   @ TEAGUE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.540375,29.858276,0</coordinates>
+				</Point>
+				<Name>SOMMERMEYER   @ TEAGUE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11598</SimpleData>
+						<SimpleData name="STOP_NAME">TEAGUE RD @ COMANCHE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.540291,29.855896,0</coordinates>
+				</Point>
+				<Name>TEAGUE RD @ COMANCHE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11598</SimpleData>
+						<SimpleData name="STOP_NAME">TEAGUE RD @ COMANCHE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.540291,29.855896,0</coordinates>
+				</Point>
+				<Name>TEAGUE RD @ COMANCHE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11594</SimpleData>
+						<SimpleData name="STOP_NAME">TEAGUE RD @ HARDISON LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.540291,29.852123,0</coordinates>
+				</Point>
+				<Name>TEAGUE RD @ HARDISON LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11595</SimpleData>
+						<SimpleData name="STOP_NAME">TEAGUE RD @ TANNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.540268,29.850296,0</coordinates>
+				</Point>
+				<Name>TEAGUE RD @ TANNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11592</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ SOMMERMEYER</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54258,29.859882,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ SOMMERMEYER</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11597</SimpleData>
+						<SimpleData name="STOP_NAME">TEAGUE RD @ SUSSEX LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.540291,29.854017,0</coordinates>
+				</Point>
+				<Name>TEAGUE RD @ SUSSEX LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11611</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ PAPALOTE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545067,29.859747,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ PAPALOTE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11612</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ SOMMERMEYER</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544533,29.861103,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ SOMMERMEYER</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11615</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ GENARD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545242,29.844059,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ GENARD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12034</SimpleData>
+						<SimpleData name="STOP_NAME">TANNER RD @ BURNSIDE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54359399999998,29.850163,0</coordinates>
+				</Point>
+				<Name>TANNER RD @ BURNSIDE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12062</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ SHADOW WOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54497499999998,29.804361,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ SHADOW WOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">85</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER PR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53725399999999,29.720308,0</coordinates>
+				</Point>
+				<Name>GESSNER PR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">85</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER PR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53725399999999,29.720308,0</coordinates>
+				</Point>
+				<Name>GESSNER PR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">104</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HENDON LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.537048,29.69421,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HENDON LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">121</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.529686,29.671438,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">704</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HANKA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544579,29.795935,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HANKA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">705</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HAZELHURST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54463200000001,29.797523,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HAZELHURST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">706</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ LAZY OAKS ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54467,29.799122,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ LAZY OAKS ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2445</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ SPRINGWOOD FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545334,29.81045,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ SPRINGWOOD FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2446</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KNOBOAK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545303,29.807926,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KNOBOAK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2447</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ NEUENS RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545303,29.806381,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ NEUENS RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2448</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ SHADOW WOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54527300000001,29.80479,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ SHADOW WOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2449</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ IMPERIAL CROWN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54497499999998,29.802767,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ IMPERIAL CROWN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2450</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WARWANA RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544937,29.800932,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WARWANA RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2451</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ EDDYSTONE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54491400000002,29.799364,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ EDDYSTONE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2452</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HAZELHURST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544884,29.797672,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HAZELHURST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2453</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HANKA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54484600000001,29.795889,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HANKA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2454</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ LONG POINT RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544815,29.794401,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ LONG POINT RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2455</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BEEKMAN PLACE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">5</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54479199999999,29.79286,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BEEKMAN PLACE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2456</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WESTVIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54476200000001,29.791277,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WESTVIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2457</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WESTVIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544533,29.788197,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WESTVIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2458</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KATY FWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54420500000001,29.786549,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KATY FWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2459</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KATY FWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54388400000001,29.78636,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KATY FWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2460</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ OLD KATY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54426599999999,29.78821,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ OLD KATY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2461</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WESTVIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544495,29.790688,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WESTVIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2462</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BEEKMAN PLACE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54452500000001,29.792294,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BEEKMAN PLACE DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2463</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ LONG POINT RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544571,29.794008,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ LONG POINT RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2464</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HADDINGTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54468499999999,29.801691,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HADDINGTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2465</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TIMBERWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54478500000002,29.803314,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TIMBERWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2466</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ NEUENS RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545029,29.805668,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ NEUENS RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2467</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KNOBOAK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54505899999999,29.808048,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KNOBOAK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2469</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ SPRINGWOOD FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545067,29.810211,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ SPRINGWOOD FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2470</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ HAMMERLY BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54508199999998,29.812407,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ HAMMERLY BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5097</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ SOUTHWEST FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53157800000001,29.688387,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ SOUTHWEST FREEWAY</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5098</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TYBOR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52964,29.687153,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TYBOR DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5099</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ JASON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52870900000002,29.685314,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ JASON ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5100</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ ARIEL ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.528671,29.683172,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ ARIEL ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5101</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ SHADOW CREST RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.528648,29.68161,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ SHADOW CREST RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5102</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ NAIRN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52864100000001,29.680065,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ NAIRN ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5103</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BISSONNET ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.528526,29.67704,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BISSONNET ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5104</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BISSONNET ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52832000000001,29.67378,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BISSONNET ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5105</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BRAESWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.528305,29.671574,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BRAESWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5106</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BRAESWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52804600000002,29.672009,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BRAESWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5107</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BRAESWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.528076,29.674318,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BRAESWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5108</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BISSONNET ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.528183,29.676687,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BISSONNET ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5109</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ NAIRN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52835799999998,29.679569,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ NAIRN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5110</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ SHADOW CREST RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.528397,29.681404,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ SHADOW CREST RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5111</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ ARIEL ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.528419,29.682905,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ ARIEL ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5112</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ JASON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.528442,29.684935,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ JASON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5113</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TYBOR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.529533,29.68749,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TYBOR DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6858</SimpleData>
+						<SimpleData name="STOP_NAME">BELLFORT AVE @ WESTBRAE PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.530807,29.655907,0</coordinates>
+				</Point>
+				<Name>BELLFORT AVE @ WESTBRAE PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6907</SimpleData>
+						<SimpleData name="STOP_NAME">WESTBRAE PKWY @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.528717,29.662867,0</coordinates>
+				</Point>
+				<Name>WESTBRAE PKWY @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6908</SimpleData>
+						<SimpleData name="STOP_NAME">WESTBRAE PKWY @ RANIER DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53145600000001,29.663168,0</coordinates>
+				</Point>
+				<Name>WESTBRAE PKWY @ RANIER DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6909</SimpleData>
+						<SimpleData name="STOP_NAME">WESTBRAE PKWY @ OFFER DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53404999999998,29.663061,0</coordinates>
+				</Point>
+				<Name>WESTBRAE PKWY @ OFFER DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6910</SimpleData>
+						<SimpleData name="STOP_NAME">WESTBRAE PKWY @ VICKIJOHN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53463000000001,29.66094,0</coordinates>
+				</Point>
+				<Name>WESTBRAE PKWY @ VICKIJOHN DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6911</SimpleData>
+						<SimpleData name="STOP_NAME">STAFFORD AND CRAVEN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.533676,29.656773,0</coordinates>
+				</Point>
+				<Name>STAFFORD AND CRAVEN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6911</SimpleData>
+						<SimpleData name="STOP_NAME">STAFFORD AND CRAVEN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.533676,29.656773,0</coordinates>
+				</Point>
+				<Name>STAFFORD AND CRAVEN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6918</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BREEZE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52784699999999,29.657484,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BREEZE ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6919</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ NORTHERN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.527885,29.66003,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ NORTHERN ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6920</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WESTBRAE PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52792399999998,29.662584,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WESTBRAE PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6921</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ CREEKBEND DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52794599999999,29.66468,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ CREEKBEND DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6922</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TWIN HILLS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.528023,29.667421,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TWIN HILLS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6923</SimpleData>
+						<SimpleData name="STOP_NAME">GUSTINE LN @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52889999999999,29.669737,0</coordinates>
+				</Point>
+				<Name>GUSTINE LN @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6924</SimpleData>
+						<SimpleData name="STOP_NAME">GUSTINE LN @ SAPLING WAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53207399999999,29.66923,0</coordinates>
+				</Point>
+				<Name>GUSTINE LN @ SAPLING WAY</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6925</SimpleData>
+						<SimpleData name="STOP_NAME">SAPLING WAY @ BRAESWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53228,29.67098,0</coordinates>
+				</Point>
+				<Name>SAPLING WAY @ BRAESWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6926</SimpleData>
+						<SimpleData name="STOP_NAME">SAPLING WAY @ GUSTINE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.532394,29.669722,0</coordinates>
+				</Point>
+				<Name>SAPLING WAY @ GUSTINE LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6927</SimpleData>
+						<SimpleData name="STOP_NAME">GUSTINE LN @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52836600000001,29.669621,0</coordinates>
+				</Point>
+				<Name>GUSTINE LN @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6928</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TWIN HILLS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52827499999999,29.66773,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TWIN HILLS DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6929</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WILLOW MEADOW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52822899999998,29.665127,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WILLOW MEADOW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7145</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WESTHEIMER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53830700000002,29.739006,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WESTHEIMER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7146</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ ELLA LEE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.538246,29.742229,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ ELLA LEE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7147</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WOODLAKE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53827699999999,29.744276,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WOODLAKE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7148</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BRIAR FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53830700000002,29.747055,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BRIAR FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7154</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ LONGMONT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53881099999998,29.750835,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ LONGMONT DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7155</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ STONEY CREEK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.541397,29.753662,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ STONEY CREEK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7156</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WARRENTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54303,29.754742,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WARRENTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7157</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ VANDERPOOL LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54471599999999,29.758877,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ VANDERPOOL LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7158</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ MEMORIAL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544472,29.763596,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ MEMORIAL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7159</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BEAUREGARD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544228,29.765945,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BEAUREGARD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7160</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BOHEME DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54424299999999,29.767654,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BOHEME DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7161</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ OLD OAKS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54425000000001,29.769644,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ OLD OAKS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7162</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ COBBLESTONE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544281,29.771324,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ COBBLESTONE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7163</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TAYLORCREST RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54431200000001,29.773825,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TAYLORCREST RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7164</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ PERTHSHIRE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54432699999998,29.775469,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ PERTHSHIRE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7165</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KINGSRIDE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544296,29.778879,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KINGSRIDE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7166</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KINGSRIDE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54423500000001,29.780655,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KINGSRIDE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7167</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KATY FWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54379299999999,29.782608,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KATY FWY</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7168</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KATY FWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54420500000001,29.783142,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KATY FWY</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7169</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ KATY FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544479,29.781229,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ KATY FREEWAY</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7170</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BARRYKNOLL LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54460899999999,29.777596,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BARRYKNOLL LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7171</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ PERTHSHIRE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544586,29.775696,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ PERTHSHIRE RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7172</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TAYLORCREST RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54456299999998,29.774029,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TAYLORCREST RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7173</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ COBBLESTONE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.544533,29.771521,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ COBBLESTONE DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7174</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ OLD OAKS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54454800000001,29.769819,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ OLD OAKS DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7175</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BOHEME DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54452500000001,29.767843,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BOHEME DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7176</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BEAUREGARD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54448699999999,29.766367,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BEAUREGARD DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles72</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7177</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ MEMORIAL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54460899999999,29.76416,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ MEMORIAL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7178</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ VANDERPOOL LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54496800000001,29.758785,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ VANDERPOOL LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7179</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WARRENTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54351,29.754814,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WARRENTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7180</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ STONEY CREEK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54194600000001,29.753744,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ STONEY CREEK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7181</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BAYOU ISLAND DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.538956,29.75061,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BAYOU ISLAND DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7182</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ BRIAR FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.538574,29.747725,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ BRIAR FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7183</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ WOODLAKE SQ</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53852100000002,29.744246,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ WOODLAKE SQ</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7184</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ ELLA LEE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53852100000002,29.742546,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ ELLA LEE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7185</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ ELLA LEE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.538483,29.739582,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ ELLA LEE LN</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+		
+
+
+</Document>
+</kml>
+

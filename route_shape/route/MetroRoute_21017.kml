@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+			<name>MetroRoute_21017</name>
+			<Style id="missing_vehicles14">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8913</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ ASHFORD PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606041,29.75773,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ ASHFORD PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8914</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ RIVER FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606049,29.7644,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ RIVER FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8915</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ MEMORIAL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606148,29.769928,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ MEMORIAL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8916</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ PERTHSHIRE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606216,29.773661,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ PERTHSHIRE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8995</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BROADGREEN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606392,29.76836,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BROADGREEN DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles14</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8996</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ ASHFORD HILLS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.605942,29.750959,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ ASHFORD HILLS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8997</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ SHANNON HILLS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60324900000002,29.681326,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ SHANNON HILLS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8998</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ CORONA LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60423299999999,29.694771,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ CORONA LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9065</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ NEWBROOK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604034,29.684015,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ NEWBROOK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10414</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ GRAND CROSS LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60420200000002,29.693272,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ GRAND CROSS LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10588</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WESTMERE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.605942,29.750015,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WESTMERE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10589</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WESTMERE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60620900000001,29.750294,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WESTMERE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11466</SimpleData>
+						<SimpleData name="STOP_NAME">BARRYKNOLL LN @ THREADNEEDLE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.609612,29.781534,0</coordinates>
+				</Point>
+				<Name>BARRYKNOLL LN @ THREADNEEDLE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11493</SimpleData>
+						<SimpleData name="STOP_NAME">BARRYKNOLL LN @ DAIRY ASHFORD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60713199999999,29.779852,0</coordinates>
+				</Point>
+				<Name>BARRYKNOLL LN @ DAIRY ASHFORD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11493</SimpleData>
+						<SimpleData name="STOP_NAME">BARRYKNOLL LN @ DAIRY ASHFORD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60713199999999,29.779852,0</coordinates>
+				</Point>
+				<Name>BARRYKNOLL LN @ DAIRY ASHFORD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11494</SimpleData>
+						<SimpleData name="STOP_NAME">THREADNEEDLE   @ ST MARYS LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.609444,29.782146,0</coordinates>
+				</Point>
+				<Name>THREADNEEDLE   @ ST MARYS LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11495</SimpleData>
+						<SimpleData name="STOP_NAME">ST MARYS LN @ DAIRY ASHFORD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60689499999998,29.782103,0</coordinates>
+				</Point>
+				<Name>ST MARYS LN @ DAIRY ASHFORD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11496</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ ALIEF CLODINE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60483600000001,29.714224,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ ALIEF CLODINE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11553</SimpleData>
+						<SimpleData name="STOP_NAME">BROOKGLADE CIR @ DAIRY ASHFORD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60194400000002,29.679647,0</coordinates>
+				</Point>
+				<Name>BROOKGLADE CIR @ DAIRY ASHFORD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11554</SimpleData>
+						<SimpleData name="STOP_NAME">BROOKGLADE CIR @ DAIRY VIEW LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.600082,29.679806,0</coordinates>
+				</Point>
+				<Name>BROOKGLADE CIR @ DAIRY VIEW LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11580</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ FERN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606453,29.77578400000001,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ FERN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11581</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ FERN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606178,29.77554900000001,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ FERN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11633</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60432400000001,29.702864,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7828</SimpleData>
+						<SimpleData name="STOP_NAME">BISSONNET ST @ DAIRY ASHFORD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.602242,29.678055,0</coordinates>
+				</Point>
+				<Name>BISSONNET ST @ DAIRY ASHFORD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7843</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ ASHFORD MEADOW D</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60592699999999,29.733801,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ ASHFORD MEADOW D</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7844</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ RICHMOND AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.605858,29.72995,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ RICHMOND AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7845</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ SKYMEADOW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.605835,29.727779,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ SKYMEADOW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7846</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WESTPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.605019,29.724009,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WESTPARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7847</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ ASHFORD POINT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604927,29.720083,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ ASHFORD POINT DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7848</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BRANT ROCK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60482,29.715651,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BRANT ROCK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7850</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ HIGH STAR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60475899999999,29.71088,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ HIGH STAR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7851</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ RODEO SQUARE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60466,29.706261,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ RODEO SQUARE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7852</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604546,29.70280500000001,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7853</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ LEADER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604591,29.70138,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ LEADER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7854</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WISPWIND DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60453800000002,29.698481,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WISPWIND DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7855</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BRAEWOOD GLEN LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60449200000001,29.695169,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BRAEWOOD GLEN LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7856</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ GRAND CROSS LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604462,29.693501,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ GRAND CROSS LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7857</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BEECHNUT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60440099999998,29.689157,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BEECHNUT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7858</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WELLINGTON PARK</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604332,29.686239,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WELLINGTON PARK</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7859</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ NEWBROOK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60430900000001,29.684242,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ NEWBROOK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7860</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ SHANNON HILLS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.603577,29.681435,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ SHANNON HILLS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7868</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BROOKGLADE CIR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.602547,29.679337,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BROOKGLADE CIR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7869</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WELLINGTON PARK</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60407999999998,29.68605,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WELLINGTON PARK</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7870</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BEECHNUT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60412599999999,29.68875299999999,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BEECHNUT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7871</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WISPWIND DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60430900000001,29.698059,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WISPWIND DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7872</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ LEADER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60433999999999,29.701281,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ LEADER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7873</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60436199999999,29.704081,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7874</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ RODEO SQUARE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604393,29.70583,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ RODEO SQUARE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7875</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ HIGH STAR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60449200000001,29.710581,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ HIGH STAR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7876</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ ALIEF CLODINE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604553,29.713814,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ ALIEF CLODINE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7877</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BRANT ROCK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604591,29.7153,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BRANT ROCK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7878</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ ASHFORD POINT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60468299999999,29.719629,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ ASHFORD POINT DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7879</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WESTPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604767,29.723652,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WESTPARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7880</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ SKYMEADOW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60556,29.728085,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ SKYMEADOW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7881</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ RICHMOND AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60560599999999,29.729481,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ RICHMOND AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7882</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ ASHFORD MEADOW D</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.605682,29.73349,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ ASHFORD MEADOW D</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7883</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WESTHEIMER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.605705,29.735945,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WESTHEIMER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8084</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BARRYKNOLL LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606537,29.77993,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BARRYKNOLL LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8086</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ PERTHSHIRE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606461,29.773899,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ PERTHSHIRE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8087</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ MEMORIAL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606415,29.770315,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ MEMORIAL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8088</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ CAROLCREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60633900000001,29.76639,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ CAROLCREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8089</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ RIVER FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60624699999998,29.764721,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ RIVER FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8090</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BRAMBLEWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60636899999999,29.761299,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BRAMBLEWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8091</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BRIAR PATCH DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606308,29.758301,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BRIAR PATCH DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8092</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BRIAR FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60623200000001,29.754086,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BRIAR FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles14</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8093</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ ASHFORD HILLS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606194,29.751129,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ ASHFORD HILLS DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles14</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8094</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WESTELLA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606163,29.748911,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WESTELLA DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles14</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8095</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WHITTINGTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606163,29.746393,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WHITTINGTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8096</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ PIPING ROCK LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606056,29.74053,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ PIPING ROCK LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8097</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ OVERBROOK LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60601800000001,29.738686,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ OVERBROOK LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8098</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WESTHEIMER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.605965,29.736506,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WESTHEIMER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8099</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ OVERBROOK LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.605774,29.738462,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ OVERBROOK LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8100</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ PIPING ROCK LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60581200000001,29.74025,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ PIPING ROCK LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8101</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WHITTINGTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60591100000001,29.745939,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WHITTINGTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles14</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8102</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WESTELLA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60591900000001,29.748699,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WESTELLA DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles14</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8103</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BRIAR FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.605988,29.753477,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BRIAR FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8211</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY VIEW LN @ BISSONNET ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.599503,29.677975,0</coordinates>
+				</Point>
+				<Name>DAIRY VIEW LN @ BISSONNET ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8211</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY VIEW LN @ BISSONNET ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.599503,29.677975,0</coordinates>
+				</Point>
+				<Name>DAIRY VIEW LN @ BISSONNET ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8234</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ ASHFORD PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60611,29.761049,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ ASHFORD PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8235</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ CAROLCREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.606087,29.766569,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ CAROLCREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8236</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ BROADGREEN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60613300000001,29.768129,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ BROADGREEN DR</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+		
+
+
+</Document>
+</kml>
+

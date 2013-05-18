@@ -1,0 +1,1877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+			<name>MetroRoute_21029</name>
+			<Style id="missing_vehicles16">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10046</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ MOUNT HOUSTON RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31804699999999,29.892122,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ MOUNT HOUSTON RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10064</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ REID ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.334641,29.814968,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ REID ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10091</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ CLARENCE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33593,29.823441,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ CLARENCE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10092</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ HOPPER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.323486,29.88047,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ HOPPER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10093</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ MOUNT HOUSTON RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31692499999998,29.891825,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ MOUNT HOUSTON RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10094</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ BRUNSWICK ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.315353,29.894524,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ BRUNSWICK ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10095</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ WINFIELD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31268300000001,29.899139,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ WINFIELD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10096</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ PINE PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31074500000001,29.903591,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ PINE PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10097</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ HAMILL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.310059,29.906349,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ HAMILL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10098</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ MARY FRANCIS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.309608,29.90822,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ MARY FRANCIS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10099</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LAUDER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.309067,29.91054,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LAUDER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10242</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ EASTHAMPTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31152299999999,29.901415,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ EASTHAMPTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10681</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ SAUNDERS RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.333443,29.864323,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ SAUNDERS RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11352</SimpleData>
+						<SimpleData name="STOP_NAME">KELLEY ST @ TUSCON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33316000000002,29.813166,0</coordinates>
+				</Point>
+				<Name>KELLEY ST @ TUSCON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11400</SimpleData>
+						<SimpleData name="STOP_NAME">OLD HUMBLE RD @ HOMESTEAD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30136100000001,29.923664,0</coordinates>
+				</Point>
+				<Name>OLD HUMBLE RD @ HOMESTEAD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11687</SimpleData>
+						<SimpleData name="STOP_NAME">SAM HOUSTON PKWY @ CROSSWINDS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.312241,29.938992,0</coordinates>
+				</Point>
+				<Name>SAM HOUSTON PKWY @ CROSSWINDS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11687</SimpleData>
+						<SimpleData name="STOP_NAME">SAM HOUSTON PKWY @ CROSSWINDS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.312241,29.938992,0</coordinates>
+				</Point>
+				<Name>SAM HOUSTON PKWY @ CROSSWINDS DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles16</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">76</SimpleData>
+						<SimpleData name="STOP_NAME">KASHMERE TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">16</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">44</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.327866,29.814114,0</coordinates>
+				</Point>
+				<Name>KASHMERE TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles16</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">76</SimpleData>
+						<SimpleData name="STOP_NAME">KASHMERE TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">16</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">44</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.327866,29.814114,0</coordinates>
+				</Point>
+				<Name>KASHMERE TC</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">80</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33710499999998,29.851591,0</coordinates>
+				</Point>
+				<Name>TIDWELL TC</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">80</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33710499999998,29.851591,0</coordinates>
+				</Point>
+				<Name>TIDWELL TC</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">90</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX PR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.298149,29.927799,0</coordinates>
+				</Point>
+				<Name>EASTEX PR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">90</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX PR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.298149,29.927799,0</coordinates>
+				</Point>
+				<Name>EASTEX PR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2656</SimpleData>
+						<SimpleData name="STOP_NAME">KELLEY ST @ SAYERS ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33085599999998,29.813555,0</coordinates>
+				</Point>
+				<Name>KELLEY ST @ SAYERS ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2657</SimpleData>
+						<SimpleData name="STOP_NAME">KELLEY ST @ TUSCON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33326,29.813532,0</coordinates>
+				</Point>
+				<Name>KELLEY ST @ TUSCON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2658</SimpleData>
+						<SimpleData name="STOP_NAME">KELLEY ST @ SAYERS ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.331879,29.813181,0</coordinates>
+				</Point>
+				<Name>KELLEY ST @ SAYERS ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2678</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ TOLIVER</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.334389,29.83012,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ TOLIVER</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2679</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ PENN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.334091,29.831551,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ PENN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2680</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ WEAVER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.333504,29.834431,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ WEAVER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2681</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ KEELAND ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33297,29.83724,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ KEELAND ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2682</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LAURA KOPPE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.332848,29.83942800000001,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LAURA KOPPE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2683</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LAURA KOPPE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.332932,29.84437,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LAURA KOPPE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2684</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ COLLEY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33294699999999,29.84708,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ COLLEY</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles16</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2685</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LANGLEY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33157300000001,29.86639,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LANGLEY RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles16</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2686</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LITTLE YORK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33013199999999,29.868999,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LITTLE YORK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2687</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LITTLECREST RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32907900000001,29.870941,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LITTLECREST RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2688</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ DARWIN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32737,29.873755,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ DARWIN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2689</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ CEDAR HILL LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32601899999999,29.876095,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ CEDAR HILL LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2690</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ HANLEY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.3246,29.878553,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ HANLEY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2691</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ HARTWICK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32102200000001,29.884714,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ HARTWICK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2692</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ CHARWON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31953400000002,29.887285,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ CHARWON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2693</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ COLLINS ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31811500000001,29.889727,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ COLLINS ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3161</SimpleData>
+						<SimpleData name="STOP_NAME">SAM HOUSTON PKWY @ JOHN F KENNEDY B</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.327866,29.938829,0</coordinates>
+				</Point>
+				<Name>SAM HOUSTON PKWY @ JOHN F KENNEDY B</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3161</SimpleData>
+						<SimpleData name="STOP_NAME">SAM HOUSTON PKWY @ JOHN F KENNEDY B</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.327866,29.938829,0</coordinates>
+				</Point>
+				<Name>SAM HOUSTON PKWY @ JOHN F KENNEDY B</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3162</SimpleData>
+						<SimpleData name="STOP_NAME">SAM HOUSTON PKWY @ VICKERY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.315933,29.938953,0</coordinates>
+				</Point>
+				<Name>SAM HOUSTON PKWY @ VICKERY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3162</SimpleData>
+						<SimpleData name="STOP_NAME">SAM HOUSTON PKWY @ VICKERY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.315933,29.938953,0</coordinates>
+				</Point>
+				<Name>SAM HOUSTON PKWY @ VICKERY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3163</SimpleData>
+						<SimpleData name="STOP_NAME">SAM HOUSTON PKWY @ CROSSWINDS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.313721,29.938978,0</coordinates>
+				</Point>
+				<Name>SAM HOUSTON PKWY @ CROSSWINDS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3163</SimpleData>
+						<SimpleData name="STOP_NAME">SAM HOUSTON PKWY @ CROSSWINDS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.313721,29.938978,0</coordinates>
+				</Point>
+				<Name>SAM HOUSTON PKWY @ CROSSWINDS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3164</SimpleData>
+						<SimpleData name="STOP_NAME">SAM HOUSTON PKWY @ LEE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.303665,29.939531,0</coordinates>
+				</Point>
+				<Name>SAM HOUSTON PKWY @ LEE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3164</SimpleData>
+						<SimpleData name="STOP_NAME">SAM HOUSTON PKWY @ LEE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.303665,29.939531,0</coordinates>
+				</Point>
+				<Name>SAM HOUSTON PKWY @ LEE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3165</SimpleData>
+						<SimpleData name="STOP_NAME">LEE RD @ MC CRACKEN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30326100000001,29.934818,0</coordinates>
+				</Point>
+				<Name>LEE RD @ MC CRACKEN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3165</SimpleData>
+						<SimpleData name="STOP_NAME">LEE RD @ MC CRACKEN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30326100000001,29.934818,0</coordinates>
+				</Point>
+				<Name>LEE RD @ MC CRACKEN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3166</SimpleData>
+						<SimpleData name="STOP_NAME">LEE RD @ ALDINE BENDER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.303146,29.931334,0</coordinates>
+				</Point>
+				<Name>LEE RD @ ALDINE BENDER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3166</SimpleData>
+						<SimpleData name="STOP_NAME">LEE RD @ ALDINE BENDER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.303146,29.931334,0</coordinates>
+				</Point>
+				<Name>LEE RD @ ALDINE BENDER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3167</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ LEE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30492400000001,29.930721,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ LEE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3167</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ LEE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30492400000001,29.930721,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ LEE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3168</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ SURLES DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.309753,29.930643,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ SURLES DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3168</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ SURLES DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.309753,29.930643,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ SURLES DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3169</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ CROSSWINDS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31301899999998,29.930599,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ CROSSWINDS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3169</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ CROSSWINDS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31301899999998,29.930599,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ CROSSWINDS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3170</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ SEQUOIA BEND BLV</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31461300000001,29.93058600000001,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ SEQUOIA BEND BLV</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3170</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ SEQUOIA BEND BLV</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31461300000001,29.93058600000001,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ SEQUOIA BEND BLV</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3171</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ VICKERY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32165500000001,29.930447,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ VICKERY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3171</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ VICKERY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32165500000001,29.930447,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ VICKERY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3172</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ ALDINE BENDER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32501999999999,29.930401,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ ALDINE BENDER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3172</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ ALDINE BENDER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32501999999999,29.930401,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ ALDINE BENDER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3173</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ JOHN F KENNEDY B</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.331108,29.930311,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ JOHN F KENNEDY B</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3173</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ JOHN F KENNEDY B</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.331108,29.930311,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ JOHN F KENNEDY B</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3174</SimpleData>
+						<SimpleData name="STOP_NAME">JFK BLVD @ SAM HOUSTON PKY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.331215,29.938517,0</coordinates>
+				</Point>
+				<Name>JFK BLVD @ SAM HOUSTON PKY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3174</SimpleData>
+						<SimpleData name="STOP_NAME">JFK BLVD @ SAM HOUSTON PKY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.331215,29.938517,0</coordinates>
+				</Point>
+				<Name>JFK BLVD @ SAM HOUSTON PKY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3175</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LEE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30223800000002,29.92676,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LEE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3176</SimpleData>
+						<SimpleData name="STOP_NAME">LEE RD @ ALDINE BENDER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30294000000001,29.93025,0</coordinates>
+				</Point>
+				<Name>LEE RD @ ALDINE BENDER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3176</SimpleData>
+						<SimpleData name="STOP_NAME">LEE RD @ ALDINE BENDER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30294000000001,29.93025,0</coordinates>
+				</Point>
+				<Name>LEE RD @ ALDINE BENDER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3177</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ APALA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30514499999998,29.921871,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ APALA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3178</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LAUDER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.310089,29.911011,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LAUDER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3179</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ NORMENTS ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.308502,29.912781,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ NORMENTS ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3180</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ HILLSIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.308037,29.914841,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ HILLSIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3182</SimpleData>
+						<SimpleData name="STOP_NAME">OLD HUMBLE RD @ LARAMIE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.29944599999999,29.925346,0</coordinates>
+				</Point>
+				<Name>OLD HUMBLE RD @ LARAMIE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3183</SimpleData>
+						<SimpleData name="STOP_NAME">OLD HUMBLE RD @ KITTYDALE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.296547,29.928125,0</coordinates>
+				</Point>
+				<Name>OLD HUMBLE RD @ KITTYDALE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3184</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ SUN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.29468499999999,29.930704,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ SUN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3185</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ LEE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30287199999999,29.930687,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ LEE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3186</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ MARINE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.298294,29.930557,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ MARINE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3187</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE BENDER RD @ OLD HUMBLE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.294456,29.930618,0</coordinates>
+				</Point>
+				<Name>ALDINE BENDER RD @ OLD HUMBLE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3188</SimpleData>
+						<SimpleData name="STOP_NAME">OLD HUMBLE RD @ KITTYDALE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.29656199999999,29.928461,0</coordinates>
+				</Point>
+				<Name>OLD HUMBLE RD @ KITTYDALE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3189</SimpleData>
+						<SimpleData name="STOP_NAME">OLD HUMBLE RD @ LARAMIE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.29946099999999,29.925657,0</coordinates>
+				</Point>
+				<Name>OLD HUMBLE RD @ LARAMIE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3190</SimpleData>
+						<SimpleData name="STOP_NAME">OLD HUMBLE RD @ HOMESTEAD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.301765,29.923613,0</coordinates>
+				</Point>
+				<Name>OLD HUMBLE RD @ HOMESTEAD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4424</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ HURLEY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33412900000002,29.846451,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ HURLEY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4425</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ HURLEY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33399199999999,29.844019,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ HURLEY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4426</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LAURA KOPPE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33400000000002,29.841949,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LAURA KOPPE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4427</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ BOSTIC ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.334267,29.836451,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ BOSTIC ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4428</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ SADLER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.334641,29.834709,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ SADLER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4429</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ PENN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33524300000001,29.83181,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ PENN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4430</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ CROSSTIMBERS ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.335876,29.8286,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ CROSSTIMBERS ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4431</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ RINER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33599100000001,29.826237,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ RINER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4432</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ REID ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.335747,29.81521,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ REID ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4475</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ JENSEN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.342247,29.848068,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ JENSEN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4476</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ EDELL</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.338257,29.848173,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ EDELL</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4477</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ WEEDY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33530399999999,29.848625,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ WEEDY LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles16</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4478</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ WEEDY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33531199999999,29.848833,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ WEEDY LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles16</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4479</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ EDELL</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33802,29.848358,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ EDELL</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles16</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4480</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ JENSEN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.34264400000001,29.848238,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ JENSEN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4866</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LAUDER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31025699999999,29.9102,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LAUDER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4867</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LAUDER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31140899999998,29.905682,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LAUDER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4868</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ ALDINE MAIL ROUT</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31187399999999,29.903822,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ ALDINE MAIL ROUT</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4869</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ ALDINE MAIL ROUT</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31237,29.902271,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ ALDINE MAIL ROUT</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4870</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ WINFIELD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.313812,29.899321,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ WINFIELD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4871</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ ORANGE GROVE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.316666,29.894392,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ ORANGE GROVE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4872</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ JUSTIN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31912199999999,29.89035,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ JUSTIN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4873</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ GASTON</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.319817,29.889021,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ GASTON</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4874</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ MESQUITE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32095299999999,29.88702,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ MESQUITE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4875</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ HARTWICK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32214399999999,29.88496,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ HARTWICK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4876</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ MOONEY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.323936,29.881849,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ MOONEY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4877</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ HOPPER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.324867,29.88043,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ HOPPER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4878</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ MOHAWK LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.325813,29.878735,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ MOHAWK LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4879</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ CEDAR HILL LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.326973,29.8766,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ CEDAR HILL LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4880</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ NUGGENT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32885,29.873369,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ NUGGENT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4881</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LITTLE YORK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33010899999999,29.871429,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LITTLE YORK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4882</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ ROTHERMEL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.331467,29.869053,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ ROTHERMEL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4883</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ LANGLEY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33268700000001,29.866915,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ LANGLEY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4884</SimpleData>
+						<SimpleData name="STOP_NAME">EASTEX FREEWAY   @ ORLANDO ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33345799999999,29.864902,0</coordinates>
+				</Point>
+				<Name>EASTEX FREEWAY   @ ORLANDO ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4885</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ LAKEWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.334457,29.862747,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ LAKEWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4886</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ DEUTSER</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.335251,29.861399,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ DEUTSER</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4887</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ PARKER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33633400000001,29.859594,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ PARKER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4888</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ TOPPING ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33715100000002,29.858271,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ TOPPING ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4889</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ HITCHCOCK ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.338463,29.856087,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ HITCHCOCK ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4890</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ HAGE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.339775,29.853914,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ HAGE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4928</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ HAGE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33963799999999,29.853676,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ HAGE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4929</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ HITCHCOCK ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.338356,29.855816,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ HITCHCOCK ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4930</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ TOPPING ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33712800000001,29.857924,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ TOPPING ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4931</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ PARKER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33637199999998,29.859123,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ PARKER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4932</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ DEUTSER</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33513600000001,29.861238,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ DEUTSER</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4933</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ EASTEX FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.334442,29.862411,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ EASTEX FREEWAY</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+		
+
+
+</Document>
+</kml>
+

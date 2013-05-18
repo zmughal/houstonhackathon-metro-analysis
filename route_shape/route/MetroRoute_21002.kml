@@ -1,0 +1,2731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+			<name>MetroRoute_21002</name>
+			<Style id="missing_vehicles64">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8445</SimpleData>
+						<SimpleData name="STOP_NAME">PACKARD ST @ TIDWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52478000000001,29.85059,0</coordinates>
+				</Point>
+				<Name>PACKARD ST @ TIDWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8445</SimpleData>
+						<SimpleData name="STOP_NAME">PACKARD ST @ TIDWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52478000000001,29.85059,0</coordinates>
+				</Point>
+				<Name>PACKARD ST @ TIDWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8446</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ FAIRBANKS N HOUSTON RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52132400000001,29.850794,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ FAIRBANKS N HOUSTON RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8447</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ RAYWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.518784,29.85078,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ RAYWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8448</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ GUHN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.513374,29.850807,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ GUHN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8449</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ DOW RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.511887,29.850828,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ DOW RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8450</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ DOW RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.511475,29.851105,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ DOW RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8451</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ GUHN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51525100000001,29.851042,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ GUHN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8452</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ RAYWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.518913,29.850994,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ RAYWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8453</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ RAYWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.521111,29.85103,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ RAYWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10120</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ ELLA BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43317399999999,29.841202,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ ELLA BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10121</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ PENNY NAIL</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43719499999999,29.841166,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ PENNY NAIL</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10122</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ ROSSLYN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44169599999999,29.841171,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ ROSSLYN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10123</SimpleData>
+						<SimpleData name="STOP_NAME">ROSSLYN RD @ DONOVAN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.441841,29.843882,0</coordinates>
+				</Point>
+				<Name>ROSSLYN RD @ DONOVAN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10124</SimpleData>
+						<SimpleData name="STOP_NAME">ROSSLYN RD @ TIDWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44255099999998,29.846046,0</coordinates>
+				</Point>
+				<Name>ROSSLYN RD @ TIDWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10125</SimpleData>
+						<SimpleData name="STOP_NAME">ROSSLYN RD @ DONOVAN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44204700000002,29.844368,0</coordinates>
+				</Point>
+				<Name>ROSSLYN RD @ DONOVAN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10126</SimpleData>
+						<SimpleData name="STOP_NAME">ROSSLYN RD @ PINEMONT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44192499999998,29.84123,0</coordinates>
+				</Point>
+				<Name>ROSSLYN RD @ PINEMONT DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10127</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ ELLA BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42907700000001,29.840975,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ ELLA BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10152</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ FAIRBANKS N HOUSTON RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52462,29.85076,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ FAIRBANKS N HOUSTON RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10153</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ GUHN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51604500000001,29.850801,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ GUHN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10232</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ ALBA RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42005899999999,29.841089,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ ALBA RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10344</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ PENNY NAIL</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43305999999998,29.841047,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ PENNY NAIL</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10345</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ ROSSLYN BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.437119,29.841003,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ ROSSLYN BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10373</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ MESA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.26145200000001,29.85018,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ MESA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10374</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BALSAM LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.25661499999998,29.850052,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BALSAM LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10375</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BALSAM LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.256378,29.850176,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BALSAM LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10376</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BROCK PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.238434,29.850933,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BROCK PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10377</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BROCK PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.237968,29.851051,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BROCK PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10378</SimpleData>
+						<SimpleData name="STOP_NAME">BROCK PARK DR @ TIDWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.236977,29.851465,0</coordinates>
+				</Point>
+				<Name>BROCK PARK DR @ TIDWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10379</SimpleData>
+						<SimpleData name="STOP_NAME">BROCK PARK DR @ VALLEY PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.237015,29.85299699999999,0</coordinates>
+				</Point>
+				<Name>BROCK PARK DR @ VALLEY PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10380</SimpleData>
+						<SimpleData name="STOP_NAME">VALLEY SIDE DR @ VALLEY LAKE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.23620599999998,29.854235,0</coordinates>
+				</Point>
+				<Name>VALLEY SIDE DR @ VALLEY LAKE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10381</SimpleData>
+						<SimpleData name="STOP_NAME">VALLEY LAKE DR @ VALLEY FALLS CT</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.238647,29.854694,0</coordinates>
+				</Point>
+				<Name>VALLEY LAKE DR @ VALLEY FALLS CT</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10382</SimpleData>
+						<SimpleData name="STOP_NAME">VALLEY HOLLOW DR @ VALLEY LAKE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.240944,29.853857,0</coordinates>
+				</Point>
+				<Name>VALLEY HOLLOW DR @ VALLEY LAKE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10383</SimpleData>
+						<SimpleData name="STOP_NAME">VALLEY PARK DR @ BROCK PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.237503,29.85309,0</coordinates>
+				</Point>
+				<Name>VALLEY PARK DR @ BROCK PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10384</SimpleData>
+						<SimpleData name="STOP_NAME">BROCK PARK DR @ TIDWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.237167,29.851669,0</coordinates>
+				</Point>
+				<Name>BROCK PARK DR @ TIDWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10384</SimpleData>
+						<SimpleData name="STOP_NAME">BROCK PARK DR @ TIDWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.237167,29.851669,0</coordinates>
+				</Point>
+				<Name>BROCK PARK DR @ TIDWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10385</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BALSAM LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.24986299999999,29.850803,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BALSAM LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10386</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BROCK PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.24959599999998,29.850927,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BROCK PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11448</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HAVENS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36515,29.846128,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HAVENS</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11449</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ IRVINGTON BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36492899999999,29.846302,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ IRVINGTON BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11456</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ ANTOINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47129099999999,29.848795,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ ANTOINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11457</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ ROSSLYN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44602999999999,29.846851,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ ROSSLYN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11458</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ GOLDSPIER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.445999,29.846611,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ GOLDSPIER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11538</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ DOW RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.513336,29.851051,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ DOW RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11576</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ MESA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.26148999999999,29.849985,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ MESA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11672</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ DEEP CREEK LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.463531,29.848225,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ DEEP CREEK LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11679</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ DEEP CREEK LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.463989,29.848196,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ DEEP CREEK LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11686</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ TIDWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.28463700000002,29.849194,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ TIDWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11905</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ TIDWELL FOUNTAINS LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.28087599999999,29.849897,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ TIDWELL FOUNTAINS LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles64</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">78</SimpleData>
+						<SimpleData name="STOP_NAME">MESA TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">12</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.26432,29.849745,0</coordinates>
+				</Point>
+				<Name>MESA TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles64</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">78</SimpleData>
+						<SimpleData name="STOP_NAME">MESA TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">12</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.26432,29.849745,0</coordinates>
+				</Point>
+				<Name>MESA TC</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">80</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33710499999998,29.851591,0</coordinates>
+				</Point>
+				<Name>TIDWELL TC</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">80</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33710499999998,29.851591,0</coordinates>
+				</Point>
+				<Name>TIDWELL TC</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">143</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ SHOREHAM ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.344673,29.848043,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ SHOREHAM ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1308</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ MADDOX ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.279495,29.849724,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ MADDOX ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1309</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ MOSSWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.276985,29.849745,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ MOSSWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1310</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ WILOAK</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.274406,29.849798,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ WILOAK</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1311</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HADDICK</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.27192700000001,29.849834,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HADDICK</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1312</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HILLIS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.26872299999999,29.84988,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HILLIS</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1313</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ MAYBERRY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.26651,29.849897,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ MAYBERRY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2384</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ ASH OAK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.46678900000001,29.848825,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ ASH OAK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2385</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ TC JESTER BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45887799999998,29.845852,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ TC JESTER BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2386</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BALBO ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45463599999998,29.846355,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BALBO ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2387</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BERTELLIS LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.452789,29.846388,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BERTELLIS LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2388</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ GOLDSPIER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.449455,29.846432,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ GOLDSPIER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2389</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ ROSSLYN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44328300000001,29.846771,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ ROSSLYN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2390</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ GOLDSPIER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44927199999999,29.846674,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ GOLDSPIER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2391</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BERTELLIS LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45233899999999,29.846626,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BERTELLIS LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2392</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BALBO ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.454391,29.846603,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BALBO ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2393</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ TC JESTER BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.458405,29.846043,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ TC JESTER BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2394</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ ASH OAK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.46633100000001,29.84904300000001,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ ASH OAK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2395</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BOLIVIA BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.471062,29.849022,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BOLIVIA BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2636</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ OLD TIDWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.28375200000001,29.851044,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ OLD TIDWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2694</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ DODSON</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33189400000001,29.848623,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ DODSON</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2695</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ FRIENDLY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32770499999998,29.848644,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ FRIENDLY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2696</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LUNDY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.324364,29.847994,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LUNDY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2697</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LAVENDER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32178500000001,29.84804,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LAVENDER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2698</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LOCKWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.319344,29.848082,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LOCKWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2763</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ PEACHTREE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31639900000002,29.848129,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ PEACHTREE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2764</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ SANDRA ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31398,29.848207,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ SANDRA ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2765</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ DANDY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.312027,29.848272,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ DANDY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2766</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ ALLWOOD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31111899999999,29.848291,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ ALLWOOD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2767</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BERTWOOD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31012,29.848295,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BERTWOOD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2768</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ CAMAY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30740400000001,29.84833,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ CAMAY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2769</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LANEWOOD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30481,29.848366,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LANEWOOD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2770</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HOMESTEAD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30262,29.848391,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HOMESTEAD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2771</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ SUNDOWN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.300095,29.848423,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ SUNDOWN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2772</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ SHERBOURNE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.295731,29.848473,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ SHERBOURNE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2782</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ MAYBERRY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.26626599999999,29.850096,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ MAYBERRY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2783</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HILLIS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.268387,29.850077,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HILLIS</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2784</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HADDICK</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.27163700000001,29.850033,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HADDICK</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2785</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ WILOAK</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.273956,29.849987,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ WILOAK</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2786</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ GREENWICH</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.27776299999999,29.849924,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ GREENWICH</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2787</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ MADDOX ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.27973900000001,29.849915,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ MADDOX ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2788</SimpleData>
+						<SimpleData name="STOP_NAME">OLD TIDWELL RD @ WAYSIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.28354600000002,29.851259,0</coordinates>
+				</Point>
+				<Name>OLD TIDWELL RD @ WAYSIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2789</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ TIDWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.285004,29.848911,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ TIDWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2790</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ SHERBOURNE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.295441,29.848654,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ SHERBOURNE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2791</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ SUNDOWN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.299728,29.848604,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ SUNDOWN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2792</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HOMESTEAD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30177300000001,29.848572,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HOMESTEAD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2793</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LANEWOOD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30426799999999,29.848555,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LANEWOOD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2794</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ CAMAY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.306602,29.848516,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ CAMAY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2795</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BERTWOOD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30981400000002,29.848482,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BERTWOOD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2796</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ DANDY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.311562,29.848454,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ DANDY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2797</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ GRADY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.312752,29.848442,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ GRADY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2798</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ PEACHTREE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31607099999999,29.848314,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ PEACHTREE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2799</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LOCKWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.318939,29.848272,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LOCKWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2800</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LAVENDER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32147999999999,29.84823400000001,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LAVENDER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2801</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HIRSCH RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.323509,29.848204,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HIRSCH RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2802</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ FRIENDLY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32741500000002,29.848808,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ FRIENDLY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2803</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ DODSON</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.331619,29.848862,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ DODSON</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4475</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ JENSEN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.342247,29.848068,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ JENSEN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4476</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ EDELL</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.338257,29.848173,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ EDELL</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4477</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ WEEDY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33530399999999,29.848625,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ WEEDY LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles64</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4478</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ WEEDY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33531199999999,29.848833,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ WEEDY LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles64</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4479</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ EDELL</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33802,29.848358,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ EDELL</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles64</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4480</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ JENSEN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.34264400000001,29.848238,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ JENSEN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4481</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ SHOREHAM ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.34440599999999,29.848221,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ SHOREHAM ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4482</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ ALDINE WESTFIELD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.348434,29.84816199999999,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ ALDINE WESTFIELD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4483</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BURDEN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35269200000002,29.848038,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BURDEN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4484</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BURDEN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35292099999999,29.847818,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BURDEN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4485</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ ALDINE WESTFIELD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.34874000000001,29.847973,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ ALDINE WESTFIELD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4891</SimpleData>
+						<SimpleData name="STOP_NAME">JENSEN DR @ TIDWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.34294100000001,29.84852800000001,0</coordinates>
+				</Point>
+				<Name>JENSEN DR @ TIDWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4953</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ NORDLING RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38988500000002,29.84542100000001,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ NORDLING RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4954</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BARRETT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38766500000001,29.845427,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BARRETT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4955</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ AIRLINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38475800000001,29.845444,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ AIRLINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4956</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ AIRLINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38295700000002,29.845457,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ AIRLINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4957</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ FULTON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.378021,29.84551,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ FULTON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4958</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HIGHLAWN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.374931,29.845531,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HIGHLAWN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4959</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BAUMAN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.371933,29.845572,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BAUMAN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4960</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ MC GALLION RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36844600000001,29.846098,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ MC GALLION RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4961</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ IRVINGTON BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.362915,29.846151,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ IRVINGTON BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4962</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ IRVINGTON BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.362244,29.846342,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ IRVINGTON BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4963</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ MC GALLION RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.368172,29.846268,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ MC GALLION RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4964</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BAUMAN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.37161999999999,29.845757,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BAUMAN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4965</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HIGHLAWN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.37426000000001,29.845707,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HIGHLAWN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4966</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ FULTON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.37760900000001,29.845678,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ FULTON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4967</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ FULTON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.37844799999999,29.845671,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ FULTON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4968</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ FULTON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38233200000001,29.845633,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ FULTON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4969</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ AIRLINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.383888,29.845619,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ AIRLINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4970</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BARRETT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.387169,29.845606,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BARRETT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4971</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ NORDLING RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.390213,29.845592,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ NORDLING RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6407</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ BRINKMAN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41625999999999,29.84111,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ BRINKMAN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6408</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ SUE MARIE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.417862,29.841105,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ SUE MARIE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6409</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ ALBA RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.422455,29.84104,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ ALBA RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6410</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ GOLF DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42437700000001,29.841017,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ GOLF DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6411</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ ELLA BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42865000000002,29.841091,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ ELLA BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6412</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ GOLF DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.425262,29.840843,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ GOLF DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6413</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ GOLF DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42235599999999,29.840919,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ GOLF DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6414</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ ALBA RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.420464,29.840919,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ ALBA RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6415</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ SUE MARIE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41802199999998,29.840967,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ SUE MARIE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6416</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ BRINKMAN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41663400000002,29.841009,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ BRINKMAN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6417</SimpleData>
+						<SimpleData name="STOP_NAME">PINEMONT DR @ SHEPHERD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.411827,29.841051,0</coordinates>
+				</Point>
+				<Name>PINEMONT DR @ SHEPHERD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7089</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ WERNER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39418000000001,29.845621,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ WERNER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7090</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ CORTLANDT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39753000000002,29.84551,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ CORTLANDT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7091</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ CORTLANDT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.399742,29.845337,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ CORTLANDT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7092</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ YALE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.402557,29.84573,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ YALE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7093</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ MONTGOMERY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40770699999999,29.84726,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ MONTGOMERY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7096</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ STUEBNER AIRLINE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.408401,29.84708,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ STUEBNER AIRLINE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7097</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ YALE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40316,29.845869,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ YALE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7098</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ YALE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.399734,29.845158,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ YALE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7099</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ CORTLANDT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39772800000001,29.845318,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ CORTLANDT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7100</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ WERNER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.394424,29.845398,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ WERNER ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles64</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7289</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ DONOVAN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41081200000001,29.844021,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ DONOVAN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles64</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7290</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ TIDWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.410866,29.84656,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ TIDWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7299</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ TIDWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.411179,29.846569,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ TIDWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7300</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ DONOVAN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41110999999998,29.844215,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ DONOVAN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7301</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ PANTHER DEN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.411064,29.842031,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ PANTHER DEN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7776</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HOLLISTER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.504982,29.851488,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HOLLISTER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7777</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LANGFIELD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50018300000002,29.850538,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LANGFIELD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7778</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ CHINABERRY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.498352,29.85051899999999,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ CHINABERRY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7779</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ NORTHWEST CENTRAL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49496499999999,29.850494,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ NORTHWEST CENTRAL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7780</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BURR OAK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49234800000001,29.850485,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BURR OAK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7781</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BINGLE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.489166,29.850452,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BINGLE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7782</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LUMBERDALE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.485214,29.850466,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LUMBERDALE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7783</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LUMBERDALE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.482094,29.850473,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LUMBERDALE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7784</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ SUNFOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48043799999999,29.850471,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ SUNFOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7785</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ THOUSAND OAKS CIR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.477814,29.849846,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ THOUSAND OAKS CIR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7786</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ DEEP FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47576100000001,29.849024,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ DEEP FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7787</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ ANTOINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47390000000001,29.848787,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ ANTOINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7788</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ ANTOINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47386900000001,29.848995,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ ANTOINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7789</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ DEEP FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.475487,29.849211,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ DEEP FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7790</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ THOUSAND OAKS CIR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47735600000001,29.849892,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ THOUSAND OAKS CIR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7791</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LOST FOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48005700000002,29.850649,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LOST FOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7792</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ SUNFOREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48214,29.850698,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ SUNFOREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7793</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LUMBERDALE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48493199999999,29.850677,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LUMBERDALE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7794</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BINGLE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.488632,29.850674,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BINGLE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7795</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BURR OAK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49207300000002,29.850697,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BURR OAK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7796</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ BLACK GUM DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49465200000002,29.850718,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ BLACK GUM DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7797</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ CHINABERRY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.498169,29.850733,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ CHINABERRY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7798</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ LANGFIELD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49992399999999,29.850752,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ LANGFIELD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7799</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HOLLISTER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50438699999999,29.851681,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HOLLISTER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7800</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ HOLLISTER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50844600000001,29.851765,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ HOLLISTER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7801</SimpleData>
+						<SimpleData name="STOP_NAME">TIDWELL RD @ NORTHWEST FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50760699999999,29.851572,0</coordinates>
+				</Point>
+				<Name>TIDWELL RD @ NORTHWEST FREEWAY</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+		
+
+
+</Document>
+</kml>
+

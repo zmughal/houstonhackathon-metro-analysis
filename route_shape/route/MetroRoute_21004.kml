@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+			<name>MetroRoute_21004</name>
+			<Style id="missing_vehicles57">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10001</SimpleData>
+						<SimpleData name="STOP_NAME">DUNLAP ST @ MAIN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49603999999999,29.63423,0</coordinates>
+				</Point>
+				<Name>DUNLAP ST @ MAIN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10001</SimpleData>
+						<SimpleData name="STOP_NAME">DUNLAP ST @ MAIN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49603999999999,29.63423,0</coordinates>
+				</Point>
+				<Name>DUNLAP ST @ MAIN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10053</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BEECHNUT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49258399999999,29.687777,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BEECHNUT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11637</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BISSONNET ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49314099999999,29.693785,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BISSONNET ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles57</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">71</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">12</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">42</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49585000000002,29.722668,0</coordinates>
+				</Point>
+				<Name>HILLCROFT TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles57</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">71</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">12</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">42</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49585000000002,29.722668,0</coordinates>
+				</Point>
+				<Name>HILLCROFT TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles57</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">106</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ SOUTHWEST FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50007600000001,29.717348,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ SOUTHWEST FREEWAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4717</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ DUBLIN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493301,29.63205,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ DUBLIN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4718</SimpleData>
+						<SimpleData name="STOP_NAME">DUBLIN ST @ DUNLAP ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.496071,29.63195,0</coordinates>
+				</Point>
+				<Name>DUBLIN ST @ DUNLAP ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles57</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6107</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ GULFTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">7</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49746699999999,29.715014,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ GULFTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles57</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6109</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ SANDS POINT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">3</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">15</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49504899999998,29.712929,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ SANDS POINT DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles57</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6110</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ HIGH STAR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">3</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">15</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493591,29.711107,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ HIGH STAR DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles57</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6111</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ CLAREWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49329400000001,29.709318,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ CLAREWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles57</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6112</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ DASHWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49329400000001,29.707312,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ DASHWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles57</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6113</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493263,29.7059,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6114</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ EDGEMOOR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493233,29.70372,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ EDGEMOOR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6115</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ SCRIBNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493202,29.7019,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ SCRIBNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6116</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ NEFF ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49318700000001,29.700359,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ NEFF ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6117</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ ROOS RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493156,29.69869,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ ROOS RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6118</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BISSONNET ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493134,29.69492,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BISSONNET ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6119</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ HAZEN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49307999999999,29.691799,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ HAZEN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6120</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ GRAPE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492851,29.685499,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ GRAPE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6121</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BIRDWOOD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492943,29.681919,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BIRDWOOD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6122</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BRAESWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493019,29.679026,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BRAESWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6123</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BRAESWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492729,29.679096,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BRAESWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6124</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BIRDWOOD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492683,29.68169,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BIRDWOOD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6125</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ JACKWOOD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49270599999998,29.68413,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ JACKWOOD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6126</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ INDIGO ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492531,29.68572,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ INDIGO ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6127</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BEECHNUT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492317,29.687916,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BEECHNUT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6128</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ HAZEN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49282800000002,29.6915,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ HAZEN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6129</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BISSONNET ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492874,29.694727,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BISSONNET ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6130</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ EVERGREEN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492767,29.69809,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ EVERGREEN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6131</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ NEFF ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49279799999999,29.700155,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ NEFF ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6132</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ JESSAMINE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49284399999999,29.701691,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ JESSAMINE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6133</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ EDGEMOOR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49284399999999,29.70355,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ EDGEMOOR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6134</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492874,29.705256,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles57</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6135</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ DASHWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">5</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492912,29.707085,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ DASHWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6136</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ CLAREWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49291999999998,29.708956,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ CLAREWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6137</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ WESTWARD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">9</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49368999999999,29.712044,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ WESTWARD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6138</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ SANDS POINT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">9</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49527,29.713568,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ SANDS POINT DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6139</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ GULFTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">11</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.496765,29.714872,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ GULFTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6329</SimpleData>
+						<SimpleData name="STOP_NAME">GREEN CRAIG DR @ HILLCROFT AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49366800000001,29.63764,0</coordinates>
+				</Point>
+				<Name>GREEN CRAIG DR @ HILLCROFT AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6330</SimpleData>
+						<SimpleData name="STOP_NAME">GREEN CRAIG DR @ DUNLAP ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49506400000001,29.637159,0</coordinates>
+				</Point>
+				<Name>GREEN CRAIG DR @ DUNLAP ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6331</SimpleData>
+						<SimpleData name="STOP_NAME">DUNLAP ST @ FONMEADOW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49531599999999,29.638544,0</coordinates>
+				</Point>
+				<Name>DUNLAP ST @ FONMEADOW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6332</SimpleData>
+						<SimpleData name="STOP_NAME">DUNLAP ST @ FONMEADOW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49533099999999,29.639635,0</coordinates>
+				</Point>
+				<Name>DUNLAP ST @ FONMEADOW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6333</SimpleData>
+						<SimpleData name="STOP_NAME">ALVARADO DR @ HILLCROFT AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493645,29.640793,0</coordinates>
+				</Point>
+				<Name>ALVARADO DR @ HILLCROFT AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6334</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ DENSMORE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49294999999999,29.64257,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ DENSMORE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6335</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ AIRPORT BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493004,29.644302,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ AIRPORT BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6336</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ DRYAD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493073,29.64694,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ DRYAD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6337</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ LUDINGTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492683,29.64979,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ LUDINGTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6338</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BURLINGHALL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.491783,29.652861,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BURLINGHALL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6339</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ MC KNIGHT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49182899999998,29.65534,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ MC KNIGHT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6340</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BELLFORT AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.491882,29.65682,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BELLFORT AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6341</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ PORTAL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49191300000001,29.660919,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ PORTAL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6342</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BANKSIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49194300000001,29.662951,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BANKSIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6343</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ WILLOWBEND BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.491997,29.666246,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ WILLOWBEND BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6344</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ CHEENA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492104,29.668442,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ CHEENA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6345</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ YARWELL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492126,29.67012,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ YARWELL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6346</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ RUTHERGLENN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492729,29.673149,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ RUTHERGLENN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6348</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BRAESHEATHER DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49359899999999,29.675871,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BRAESHEATHER DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6349</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BRAESWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49334700000001,29.677429,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BRAESWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6350</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BRAESHEATHER DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49368999999999,29.677191,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BRAESHEATHER DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6351</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BAYOU BRIDGE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493713,29.67477,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BAYOU BRIDGE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6352</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ RUTHERGLENN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492683,29.672461,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ RUTHERGLENN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6353</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ YARWELL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49239300000001,29.670361,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ YARWELL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6354</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ CHEENA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492378,29.668873,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ CHEENA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6355</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ WILLOWBEND BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49240099999999,29.66647,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ WILLOWBEND BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6356</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BANKSIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49234800000001,29.66316,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BANKSIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6357</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ PORTAL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49231,29.660721,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ PORTAL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6358</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BELLFORT AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49221,29.65745,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BELLFORT AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6359</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ MC KNIGHT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492233,29.65551,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ MC KNIGHT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6360</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ BURLINGHALL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492188,29.65304,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ BURLINGHALL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6361</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ LUDINGTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49291999999998,29.6502,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ LUDINGTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6362</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ DRYAD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.493469,29.6471,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ DRYAD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6363</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ AIRPORT BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49342300000001,29.64463,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ AIRPORT BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6364</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ DENSMORE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49337,29.64201,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ DENSMORE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6365</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ ALVARADO DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49334700000001,29.64098,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ ALVARADO DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6366</SimpleData>
+						<SimpleData name="STOP_NAME">DUNLAP ST @ ALVARADO DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49546100000001,29.63994,0</coordinates>
+				</Point>
+				<Name>DUNLAP ST @ ALVARADO DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6367</SimpleData>
+						<SimpleData name="STOP_NAME">DUNLAP ST @ FONMEADOW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.495453,29.638769,0</coordinates>
+				</Point>
+				<Name>DUNLAP ST @ FONMEADOW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6368</SimpleData>
+						<SimpleData name="STOP_NAME">GREEN CRAIG DR @ DUNLAP ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.495041,29.637051,0</coordinates>
+				</Point>
+				<Name>GREEN CRAIG DR @ DUNLAP ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6369</SimpleData>
+						<SimpleData name="STOP_NAME">GREEN CRAIG DR @ DUNLAP ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49395,29.637449,0</coordinates>
+				</Point>
+				<Name>GREEN CRAIG DR @ DUNLAP ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7703</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ WESTPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50118999999999,29.722111,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ WESTPARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7704</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ HARWIN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50115200000002,29.720106,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ HARWIN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7705</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ HARWIN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50106,29.719219,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ HARWIN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7706</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ SOUTHWEST FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.500015,29.717714,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ SOUTHWEST FREEWAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7707</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ HARWIN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.500839,29.719496,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ HARWIN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7708</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ HARWIN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50088500000001,29.72085,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ HARWIN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7709</SimpleData>
+						<SimpleData name="STOP_NAME">HILLCROFT AVE @ WESTPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.500893,29.72261,0</coordinates>
+				</Point>
+				<Name>HILLCROFT AVE @ WESTPARK DR</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+		
+
+
+</Document>
+</kml>
+

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+			<name>MetroRoute_21243</name>
+			<Style id="missing_vehicles">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25001</SimpleData>
+						<SimpleData name="STOP_NAME">FANNIN SOUTH STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40280199999999,29.67358,0</coordinates>
+				</Point>
+				<Name>FANNIN SOUTH STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25001</SimpleData>
+						<SimpleData name="STOP_NAME">FANNIN SOUTH STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40280199999999,29.67358,0</coordinates>
+				</Point>
+				<Name>FANNIN SOUTH STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25003</SimpleData>
+						<SimpleData name="STOP_NAME">RELIANT PARK STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40334300000001,29.68593,0</coordinates>
+				</Point>
+				<Name>RELIANT PARK STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25004</SimpleData>
+						<SimpleData name="STOP_NAME">RELIANT PARK STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.403419,29.68593,0</coordinates>
+				</Point>
+				<Name>RELIANT PARK STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25005</SimpleData>
+						<SimpleData name="STOP_NAME">SMITH LANDS STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.404793,29.69647,0</coordinates>
+				</Point>
+				<Name>SMITH LANDS STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25006</SimpleData>
+						<SimpleData name="STOP_NAME">SMITH LANDS STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40486900000001,29.69647,0</coordinates>
+				</Point>
+				<Name>SMITH LANDS STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25007</SimpleData>
+						<SimpleData name="STOP_NAME">TEXAS MEDICAL CENTER TC STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40284699999999,29.70413,0</coordinates>
+				</Point>
+				<Name>TEXAS MEDICAL CENTER TC STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25008</SimpleData>
+						<SimpleData name="STOP_NAME">TEXAS MEDICAL CENTER TC STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40293900000002,29.704109,0</coordinates>
+				</Point>
+				<Name>TEXAS MEDICAL CENTER TC STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25009</SimpleData>
+						<SimpleData name="STOP_NAME">DRYDEN/TMC STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40055099999999,29.710072,0</coordinates>
+				</Point>
+				<Name>DRYDEN/TMC STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25010</SimpleData>
+						<SimpleData name="STOP_NAME">DRYDEN/TMC STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40121499999999,29.709349,0</coordinates>
+				</Point>
+				<Name>DRYDEN/TMC STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25011</SimpleData>
+						<SimpleData name="STOP_NAME">MEMORIAL HERMANN/HOUSTON ZOO STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.3974,29.714069,0</coordinates>
+				</Point>
+				<Name>MEMORIAL HERMANN/HOUSTON ZOO STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25012</SimpleData>
+						<SimpleData name="STOP_NAME">MEMORIAL HERMANN/HOUSTON ZOO STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39685100000001,29.714861,0</coordinates>
+				</Point>
+				<Name>MEMORIAL HERMANN/HOUSTON ZOO STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25013</SimpleData>
+						<SimpleData name="STOP_NAME">HERMANN PARK/RICE U STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39353900000002,29.720005,0</coordinates>
+				</Point>
+				<Name>HERMANN PARK/RICE U STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25014</SimpleData>
+						<SimpleData name="STOP_NAME">HERMANN PARK/RICE U STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39360000000001,29.720043,0</coordinates>
+				</Point>
+				<Name>HERMANN PARK/RICE U STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25015</SimpleData>
+						<SimpleData name="STOP_NAME">MUSEUM DISTRICT STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38816799999999,29.724323,0</coordinates>
+				</Point>
+				<Name>MUSEUM DISTRICT STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25016</SimpleData>
+						<SimpleData name="STOP_NAME">MUSEUM DISTRICT STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.389076,29.724741,0</coordinates>
+				</Point>
+				<Name>MUSEUM DISTRICT STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25017</SimpleData>
+						<SimpleData name="STOP_NAME">WHEELER STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38336200000001,29.73274,0</coordinates>
+				</Point>
+				<Name>WHEELER STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25018</SimpleData>
+						<SimpleData name="STOP_NAME">WHEELER STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.383408,29.73275,0</coordinates>
+				</Point>
+				<Name>WHEELER STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25019</SimpleData>
+						<SimpleData name="STOP_NAME">ENSEMBLE/HCC STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.378792,29.739389,0</coordinates>
+				</Point>
+				<Name>ENSEMBLE/HCC STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25020</SimpleData>
+						<SimpleData name="STOP_NAME">ENSEMBLE/HCC STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.379288,29.738859,0</coordinates>
+				</Point>
+				<Name>ENSEMBLE/HCC STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25021</SimpleData>
+						<SimpleData name="STOP_NAME">MCGOWEN STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.373779,29.745741,0</coordinates>
+				</Point>
+				<Name>MCGOWEN STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25022</SimpleData>
+						<SimpleData name="STOP_NAME">MCGOWEN STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.374397,29.745041,0</coordinates>
+				</Point>
+				<Name>MCGOWEN STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25023</SimpleData>
+						<SimpleData name="STOP_NAME">DOWNTOWN TC STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36992600000001,29.750589,0</coordinates>
+				</Point>
+				<Name>DOWNTOWN TC STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25024</SimpleData>
+						<SimpleData name="STOP_NAME">DOWNTOWN TC STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.37056699999999,29.74988,0</coordinates>
+				</Point>
+				<Name>DOWNTOWN TC STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25025</SimpleData>
+						<SimpleData name="STOP_NAME">BELL STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.367554,29.75358,0</coordinates>
+				</Point>
+				<Name>BELL STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25026</SimpleData>
+						<SimpleData name="STOP_NAME">BELL STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.368202,29.752872,0</coordinates>
+				</Point>
+				<Name>BELL STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25027</SimpleData>
+						<SimpleData name="STOP_NAME">MAIN STREET SQUARE STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36454000000001,29.757389,0</coordinates>
+				</Point>
+				<Name>MAIN STREET SQUARE STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25028</SimpleData>
+						<SimpleData name="STOP_NAME">MAIN STREET SQUARE STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.365837,29.755859,0</coordinates>
+				</Point>
+				<Name>MAIN STREET SQUARE STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25029</SimpleData>
+						<SimpleData name="STOP_NAME">PRESTON STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.361031,29.76185,0</coordinates>
+				</Point>
+				<Name>PRESTON STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25030</SimpleData>
+						<SimpleData name="STOP_NAME">PRESTON STN SB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.361656,29.761141,0</coordinates>
+				</Point>
+				<Name>PRESTON STN SB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25031</SimpleData>
+						<SimpleData name="STOP_NAME">UH-DOWNTOWN STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35872700000002,29.765879,0</coordinates>
+				</Point>
+				<Name>UH-DOWNTOWN STN NB</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">25031</SimpleData>
+						<SimpleData name="STOP_NAME">UH-DOWNTOWN STN NB</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35872700000002,29.765879,0</coordinates>
+				</Point>
+				<Name>UH-DOWNTOWN STN NB</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+
+
+
+</Document>
+</kml>
+

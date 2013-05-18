@@ -1,0 +1,2643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+			<name>MetroRoute_20990</name>
+			<Style id="missing_vehicles85">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9458</SimpleData>
+						<SimpleData name="STOP_NAME">CAPITOL ST @ WAYSIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">8</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30580100000002,29.73546,0</coordinates>
+				</Point>
+				<Name>CAPITOL ST @ WAYSIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9599</SimpleData>
+						<SimpleData name="STOP_NAME">ALMEDA RD @ MYATT</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38559000000001,29.703255,0</coordinates>
+				</Point>
+				<Name>ALMEDA RD @ MYATT</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9600</SimpleData>
+						<SimpleData name="STOP_NAME">ALMEDA RD @ OLD SPANISH TRAIL ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38703900000002,29.699118,0</coordinates>
+				</Point>
+				<Name>ALMEDA RD @ OLD SPANISH TRAIL ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9614</SimpleData>
+						<SimpleData name="STOP_NAME">ALMEDA RD @ LOCKETT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38545999999999,29.702389,0</coordinates>
+				</Point>
+				<Name>ALMEDA RD @ LOCKETT ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9630</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ ARDMORE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.376389,29.702271,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ ARDMORE ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9631</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ ARDMORE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.37896699999999,29.70311,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ ARDMORE ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9632</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ DOMINIC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38052399999998,29.703588,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ DOMINIC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9633</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ ST DOMINIC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38240099999999,29.704346,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ ST DOMINIC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9634</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ ALMEDA RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.384308,29.705627,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ ALMEDA RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9635</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ RINGNESS AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">6</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">8</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.387001,29.706638,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ RINGNESS AVE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9636</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ CAMBRIDGE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38995400000002,29.706163,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ CAMBRIDGE ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9637</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ STAFFORDSHIRE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.391518,29.705877,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ STAFFORDSHIRE ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9638</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ BRAESWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39407300000001,29.706331,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ BRAESWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9639</SimpleData>
+						<SimpleData name="STOP_NAME">RINGNESS AVE @ CATE TER</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">8</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38804599999999,29.704531,0</coordinates>
+				</Point>
+				<Name>RINGNESS AVE @ CATE TER</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9641</SimpleData>
+						<SimpleData name="STOP_NAME">RINGNESS AVE @ CATE TER</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.387878,29.704538,0</coordinates>
+				</Point>
+				<Name>RINGNESS AVE @ CATE TER</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9811</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ AVENUE K</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30349699999998,29.74382,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ AVENUE K</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9812</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ AVENUE I</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30407700000001,29.742479,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ AVENUE I</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9813</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ CANAL ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.304573,29.741257,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ CANAL ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9814</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ AVENUE E</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.305206,29.73974,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ AVENUE E</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9815</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ AVENUE C</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30579400000001,29.738359,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ AVENUE C</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9816</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ HARRISBURG BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.306282,29.737141,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ HARRISBURG BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9817</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ POLK ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30827300000001,29.732201,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ POLK ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9818</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ JAMAIL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30916600000002,29.729979,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ JAMAIL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9819</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ JAMAIL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.309967,29.72788,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ JAMAIL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9820</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ FAIRFIELD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31198099999999,29.72316,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ FAIRFIELD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9821</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ ROCKBRIDGE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31311000000001,29.720181,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ ROCKBRIDGE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9822</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ ESKRIDGE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31347700000001,29.71924,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ ESKRIDGE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9823</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ GULF FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.315117,29.71594,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ GULF FREEWAY</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9951</SimpleData>
+						<SimpleData name="STOP_NAME">MOURSUND ST @ LAMAR FLEMING AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.393776,29.707836,0</coordinates>
+				</Point>
+				<Name>MOURSUND ST @ LAMAR FLEMING AVE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9952</SimpleData>
+						<SimpleData name="STOP_NAME">MOURSUND ST @ LAMAR FLEMING AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.394485,29.708515,0</coordinates>
+				</Point>
+				<Name>MOURSUND ST @ LAMAR FLEMING AVE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9953</SimpleData>
+						<SimpleData name="STOP_NAME">MOURSUND ST @ BERTNER AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39685799999998,29.709923,0</coordinates>
+				</Point>
+				<Name>MOURSUND ST @ BERTNER AVE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9959</SimpleData>
+						<SimpleData name="STOP_NAME">BERTNER AVE @ WILKINS ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39781999999998,29.709997,0</coordinates>
+				</Point>
+				<Name>BERTNER AVE @ WILKINS ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9980</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ LAWNDALE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31134,29.725027,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ LAWNDALE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9984</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ BRISTOL ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.371094,29.80369,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ BRISTOL ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10131</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ 7TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.409721,29.78615,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ 7TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10171</SimpleData>
+						<SimpleData name="STOP_NAME">LOCKWOOD DR @ EAST FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31561999999998,29.7735,0</coordinates>
+				</Point>
+				<Name>LOCKWOOD DR @ EAST FREEWAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10190</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ OLD SPANISH</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.330704,29.710369,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ OLD SPANISH</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11025</SimpleData>
+						<SimpleData name="STOP_NAME">TEXAS MEDICAL CENTER TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">24</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">63</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40361,29.704323,0</coordinates>
+				</Point>
+				<Name>TEXAS MEDICAL CENTER TC</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">90109</SimpleData>
+						<SimpleData name="STOP_NAME">I-10 &amp; SHEPHERD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40949999999998,29.776951,0</coordinates>
+				</Point>
+				<Name>I-10 <![CDATA[&]]> SHEPHERD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11205</SimpleData>
+						<SimpleData name="STOP_NAME">PRESSLER ST @ HOLCOMBE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40757000000001,29.705166,0</coordinates>
+				</Point>
+				<Name>PRESSLER ST @ HOLCOMBE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11216</SimpleData>
+						<SimpleData name="STOP_NAME">PRESSLER ST @ MAIN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">5</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.406403,29.704157,0</coordinates>
+				</Point>
+				<Name>PRESSLER ST @ MAIN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11254</SimpleData>
+						<SimpleData name="STOP_NAME">BERTNER AVE @ PRESSLER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.399597,29.704554,0</coordinates>
+				</Point>
+				<Name>BERTNER AVE @ PRESSLER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11255</SimpleData>
+						<SimpleData name="STOP_NAME">PRESSLER ST @ BERTNER AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40147400000001,29.704086,0</coordinates>
+				</Point>
+				<Name>PRESSLER ST @ BERTNER AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11297</SimpleData>
+						<SimpleData name="STOP_NAME">VETERANS MEMORIAL HOSPITAL</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.390038,29.699135,0</coordinates>
+				</Point>
+				<Name>VETERANS MEMORIAL HOSPITAL</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11311</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ AVENUE O</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30239900000001,29.746565,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ AVENUE O</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11345</SimpleData>
+						<SimpleData name="STOP_NAME">ALMEDA RD @ OLD SPANISH TRAIL</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.386246,29.69998,0</coordinates>
+				</Point>
+				<Name>ALMEDA RD @ OLD SPANISH TRAIL</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11552</SimpleData>
+						<SimpleData name="STOP_NAME">BERTNER AVE @ BATES ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39919999999999,29.707487,0</coordinates>
+				</Point>
+				<Name>BERTNER AVE @ BATES ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">69</SimpleData>
+						<SimpleData name="STOP_NAME">FIFTH WARD/DENVER HARBOR TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">6</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">22</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.315376,29.775351,0</coordinates>
+				</Point>
+				<Name>FIFTH WARD/DENVER HARBOR TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">70</SimpleData>
+						<SimpleData name="STOP_NAME">HEIGHTS TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">12</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.388336,29.805553,0</coordinates>
+				</Point>
+				<Name>HEIGHTS TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">72</SimpleData>
+						<SimpleData name="STOP_NAME">SOUTHEAST TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">16</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">54</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35717,29.701387,0</coordinates>
+				</Point>
+				<Name>SOUTHEAST TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">77</SimpleData>
+						<SimpleData name="STOP_NAME">MAGNOLIA TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">18</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.303055,29.735182,0</coordinates>
+				</Point>
+				<Name>MAGNOLIA TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">142</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ RUSSELL ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33273299999999,29.80006,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ RUSSELL ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">372</SimpleData>
+						<SimpleData name="STOP_NAME">CLINTON DR @ ARMOUR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30071999999998,29.758089,0</coordinates>
+				</Point>
+				<Name>CLINTON DR @ ARMOUR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">373</SimpleData>
+						<SimpleData name="STOP_NAME">CLINTON DR @ ARMOUR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.299477,29.757425,0</coordinates>
+				</Point>
+				<Name>CLINTON DR @ ARMOUR DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">374</SimpleData>
+						<SimpleData name="STOP_NAME">CLINTON DR @ WAYSIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.29557,29.756701,0</coordinates>
+				</Point>
+				<Name>CLINTON DR @ WAYSIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">444</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ BRANARD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41060600000002,29.736719,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ BRANARD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">445</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ ALABAMA ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41062199999999,29.738371,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ ALABAMA ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">446</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ HAROLD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41063699999999,29.740351,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ HAROLD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">447</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ WESTHEIMER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.410652,29.742132,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ WESTHEIMER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">448</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ FAIRVIEW ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.410583,29.7446,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ FAIRVIEW ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">449</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ INDIANA ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41057600000001,29.746828,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ INDIANA ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">450</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ VERMONT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.410614,29.749006,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ VERMONT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">451</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ PELHAM DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.410645,29.751059,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ PELHAM DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">452</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ GRAY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.410629,29.752638,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ GRAY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">453</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ BRENTWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.410675,29.754091,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ BRENTWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">455</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ DALLAS ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40831799999999,29.756645,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ DALLAS ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">456</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ MEMORIAL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40885199999998,29.76222,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ MEMORIAL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">457</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ DICKSON</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.409233,29.764259,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ DICKSON</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">458</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ FEAGAN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40933200000002,29.76601,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ FEAGAN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">459</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ BLOSSOM ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.409363,29.76746,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ BLOSSOM ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">460</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ ROSE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40939299999998,29.768909,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ ROSE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">461</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ WASHINGTON AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40941599999999,29.770344,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ WASHINGTON AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">462</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ CENTER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.409431,29.77154,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ CENTER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">463</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ ELI</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40947,29.773279,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ ELI</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">464</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ EIGEL</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40949999999998,29.774759,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ EIGEL</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">465</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ NOLDA ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40952299999999,29.77618,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ NOLDA ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1474</SimpleData>
+						<SimpleData name="STOP_NAME">LATHROP ST @ EL PASO</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30126199999999,29.771799,0</coordinates>
+				</Point>
+				<Name>LATHROP ST @ EL PASO</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1475</SimpleData>
+						<SimpleData name="STOP_NAME">LATHROP ST @ LESLIE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30123899999998,29.76926,0</coordinates>
+				</Point>
+				<Name>LATHROP ST @ LESLIE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1476</SimpleData>
+						<SimpleData name="STOP_NAME">LATHROP ST @ LARIMER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.301247,29.76745,0</coordinates>
+				</Point>
+				<Name>LATHROP ST @ LARIMER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1477</SimpleData>
+						<SimpleData name="STOP_NAME">LATHROP ST @ LARIMER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30126199999999,29.763941,0</coordinates>
+				</Point>
+				<Name>LATHROP ST @ LARIMER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1478</SimpleData>
+						<SimpleData name="STOP_NAME">LATHROP ST @ OLD CLINTON RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30126999999999,29.76123,0</coordinates>
+				</Point>
+				<Name>LATHROP ST @ OLD CLINTON RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1484</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ AVENUE U</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.300743,29.7505,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ AVENUE U</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1485</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ AVENUE S</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.301277,29.74922,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ AVENUE S</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1486</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ AVENUE Q</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30184199999999,29.74786900000001,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ AVENUE Q</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1487</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ NAVIGATION BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.302925,29.745344,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ NAVIGATION BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1496</SimpleData>
+						<SimpleData name="STOP_NAME">MARKET ST @ SAKOWITZ ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.313751,29.772593,0</coordinates>
+				</Point>
+				<Name>MARKET ST @ SAKOWITZ ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1497</SimpleData>
+						<SimpleData name="STOP_NAME">MARKET ST @ SHOTWELL ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31118800000002,29.7728,0</coordinates>
+				</Point>
+				<Name>MARKET ST @ SHOTWELL ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1498</SimpleData>
+						<SimpleData name="STOP_NAME">MARKET ST @ HAHLO ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.309608,29.772799,0</coordinates>
+				</Point>
+				<Name>MARKET ST @ HAHLO ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1499</SimpleData>
+						<SimpleData name="STOP_NAME">MARKET ST @ KRESS ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.307686,29.772789,0</coordinates>
+				</Point>
+				<Name>MARKET ST @ KRESS ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1500</SimpleData>
+						<SimpleData name="STOP_NAME">MARKET ST @ ROUSE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30553399999999,29.772793,0</coordinates>
+				</Point>
+				<Name>MARKET ST @ ROUSE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1501</SimpleData>
+						<SimpleData name="STOP_NAME">MARKET ST @ ZOE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30342099999999,29.772778,0</coordinates>
+				</Point>
+				<Name>MARKET ST @ ZOE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1502</SimpleData>
+						<SimpleData name="STOP_NAME">MARKET ST @ LATHROP ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.301598,29.772799,0</coordinates>
+				</Point>
+				<Name>MARKET ST @ LATHROP ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1650</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ GULF FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.315842,29.71418999999999,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ GULF FREEWAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1651</SimpleData>
+						<SimpleData name="STOP_NAME">WAYSIDE DR @ TELEPHONE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31629899999999,29.713099,0</coordinates>
+				</Point>
+				<Name>WAYSIDE DR @ TELEPHONE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1881</SimpleData>
+						<SimpleData name="STOP_NAME">GRIGGS RD @ ST AUGUSTINE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35356099999998,29.703329,0</coordinates>
+				</Point>
+				<Name>GRIGGS RD @ ST AUGUSTINE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">1882</SimpleData>
+						<SimpleData name="STOP_NAME">GRIGGS RD @ ST AUGUSTINE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.355011,29.703779,0</coordinates>
+				</Point>
+				<Name>GRIGGS RD @ ST AUGUSTINE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2052</SimpleData>
+						<SimpleData name="STOP_NAME">LOCKWOOD DR @ MARCUS ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31703199999998,29.79891,0</coordinates>
+				</Point>
+				<Name>LOCKWOOD DR @ MARCUS ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2053</SimpleData>
+						<SimpleData name="STOP_NAME">LOCKWOOD DR @ CRANE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31700900000001,29.79714,0</coordinates>
+				</Point>
+				<Name>LOCKWOOD DR @ CRANE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2054</SimpleData>
+						<SimpleData name="STOP_NAME">LOCKWOOD DR @ MAKEIG ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.316971,29.795519,0</coordinates>
+				</Point>
+				<Name>LOCKWOOD DR @ MAKEIG ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2055</SimpleData>
+						<SimpleData name="STOP_NAME">LOCKWOOD DR @ COLLINGSWORTH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31649000000002,29.79409,0</coordinates>
+				</Point>
+				<Name>LOCKWOOD DR @ COLLINGSWORTH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2056</SimpleData>
+						<SimpleData name="STOP_NAME">LOCKWOOD DR @ SALINA</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.316193,29.79211,0</coordinates>
+				</Point>
+				<Name>LOCKWOOD DR @ SALINA</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2057</SimpleData>
+						<SimpleData name="STOP_NAME">LOCKWOOD DR @ SUEZ ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31606299999999,29.78327,0</coordinates>
+				</Point>
+				<Name>LOCKWOOD DR @ SUEZ ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2058</SimpleData>
+						<SimpleData name="STOP_NAME">LOCKWOOD DR @ NICHOLS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31603200000001,29.781349,0</coordinates>
+				</Point>
+				<Name>LOCKWOOD DR @ NICHOLS</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2059</SimpleData>
+						<SimpleData name="STOP_NAME">LOCKWOOD DR @ MULVEY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31604799999999,29.780396,0</coordinates>
+				</Point>
+				<Name>LOCKWOOD DR @ MULVEY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2060</SimpleData>
+						<SimpleData name="STOP_NAME">LOCKWOOD DR @ HERSHE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.316002,29.778419,0</coordinates>
+				</Point>
+				<Name>LOCKWOOD DR @ HERSHE ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2240</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ DES CHAUMES</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">3</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33883700000001,29.801188,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ DES CHAUMES</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2241</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ LINN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.336411,29.800552,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ LINN ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2242</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ FALLS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">3</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.331001,29.800102,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ FALLS</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2243</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ HIRSCH RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32848400000002,29.800152,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ HIRSCH RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2244</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ WAYNE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.325996,29.80019,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ WAYNE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2245</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ WIPPRECHT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.322472,29.80022,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ WIPPRECHT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2246</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ LAVENDER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.320702,29.80024,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ LAVENDER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2247</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ LOCKWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31724500000001,29.800272,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ LOCKWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3133</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ SUTHERLAND S</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31819200000001,29.710957,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ SUTHERLAND S</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3134</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ WHEELER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.320137,29.710529,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ WHEELER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3135</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ RENSHAW ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32148700000002,29.71063,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ RENSHAW ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3136</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ LIDSTONE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32315100000001,29.711126,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ LIDSTONE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3137</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ DELAFIELD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.324776,29.711523,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ DELAFIELD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3138</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ DELAFIELD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32858299999999,29.710859,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ DELAFIELD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3139</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ MARTIN LUTHE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.336647,29.708969,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ MARTIN LUTHE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3140</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ BELVEDERE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.340431,29.707411,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ BELVEDERE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3141</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ CALHOUN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.34314000000001,29.706356,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ CALHOUN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3142</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ BLYTHEWOOD S</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.345978,29.705259,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ BLYTHEWOOD S</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3143</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ CULLEN BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.34859499999999,29.704275,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ CULLEN BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3144</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ ENGLAND</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.352036,29.70311,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ ENGLAND</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3146</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ LA SALETTE S</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36106100000001,29.702328,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ LA SALETTE S</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3147</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ TIERWESTER S</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36435699999998,29.70212,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ TIERWESTER S</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3148</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ CULBERSON</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.367531,29.70194100000001,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ CULBERSON</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3149</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ DEL RIO ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36956000000001,29.701818,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ DEL RIO ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3150</SimpleData>
+						<SimpleData name="STOP_NAME">OLD SPANISH TRAIL ST @ ALLEGHENY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.37159,29.7017,0</coordinates>
+				</Point>
+				<Name>OLD SPANISH TRAIL ST @ ALLEGHENY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3277</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ FULTON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36868300000002,29.803162,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ FULTON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3278</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ BEGGS ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.365883,29.803141,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ BEGGS ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3279</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ AVERILL ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36402099999999,29.80316,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ AVERILL ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3280</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ IRVINGTON BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36129,29.8032,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ IRVINGTON BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3281</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ CETTI ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35930599999999,29.80323,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ CETTI ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3282</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ COCHRAN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.356461,29.80319,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ COCHRAN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3283</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ CHAPMAN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35452299999999,29.803221,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ CHAPMAN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3284</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ HARDY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35259199999999,29.803261,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ HARDY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3285</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ ELYSIAN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35161600000001,29.803272,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ ELYSIAN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3286</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ SCHALKER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.346497,29.80281099999999,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ SCHALKER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">3287</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ JENSEN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.342361,29.802,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ JENSEN DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5454</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ MONTCLAIR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40898900000002,29.706352,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ MONTCLAIR DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles85</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5455</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ BELLGREEN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41069,29.706327,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ BELLGREEN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5456</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ GREENBRIAR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.412407,29.706318,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ GREENBRIAR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5475</SimpleData>
+						<SimpleData name="STOP_NAME">GREENBRIAR DR @ MC CLENDON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41253699999999,29.70776,0</coordinates>
+				</Point>
+				<Name>GREENBRIAR DR @ MC CLENDON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5476</SimpleData>
+						<SimpleData name="STOP_NAME">GREENBRIAR DR @ GOLDSMITH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.412567,29.710131,0</coordinates>
+				</Point>
+				<Name>GREENBRIAR DR @ GOLDSMITH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5477</SimpleData>
+						<SimpleData name="STOP_NAME">GREENBRIAR DR @ ADDISON RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.412567,29.71172,0</coordinates>
+				</Point>
+				<Name>GREENBRIAR DR @ ADDISON RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5478</SimpleData>
+						<SimpleData name="STOP_NAME">GREENBRIAR DR @ DRYDEN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.412582,29.71335,0</coordinates>
+				</Point>
+				<Name>GREENBRIAR DR @ DRYDEN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5479</SimpleData>
+						<SimpleData name="STOP_NAME">GREENBRIAR DR @ UNIVERSITY BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.412598,29.71559,0</coordinates>
+				</Point>
+				<Name>GREENBRIAR DR @ UNIVERSITY BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5480</SimpleData>
+						<SimpleData name="STOP_NAME">RICE BLVD @ GREENBRIAR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41207900000001,29.717482,0</coordinates>
+				</Point>
+				<Name>RICE BLVD @ GREENBRIAR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5481</SimpleData>
+						<SimpleData name="STOP_NAME">RICE BLVD @ WHITNEY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.410133,29.718031,0</coordinates>
+				</Point>
+				<Name>RICE BLVD @ WHITNEY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5482</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ RICE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40917200000001,29.719051,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ RICE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5483</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ DUNSTAN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.409752,29.720184,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ DUNSTAN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5484</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ ROBINHOOD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41024799999998,29.721445,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ ROBINHOOD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5485</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ SUNSET BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41044600000001,29.722776,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ SUNSET BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5486</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ BISSONNET ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41047700000001,29.725344,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ BISSONNET ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5487</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ BARTLETT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.4105,29.726982,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ BARTLETT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5488</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ MILFORD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41051499999999,29.728579,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ MILFORD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5489</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ SOUTHWEST FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.410522,29.730152,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ SOUTHWEST FREEWAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6070</SimpleData>
+						<SimpleData name="STOP_NAME">20TH ST @ LAWRENCE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40818,29.803761,0</coordinates>
+				</Point>
+				<Name>20TH ST @ LAWRENCE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6071</SimpleData>
+						<SimpleData name="STOP_NAME">20TH ST @ ASHLAND ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40376300000001,29.803841,0</coordinates>
+				</Point>
+				<Name>20TH ST @ ASHLAND ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6072</SimpleData>
+						<SimpleData name="STOP_NAME">20TH ST @ RUTLAND ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40154299999999,29.803841,0</coordinates>
+				</Point>
+				<Name>20TH ST @ RUTLAND ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6073</SimpleData>
+						<SimpleData name="STOP_NAME">20TH ST @ HEIGHTS BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.398239,29.803898,0</coordinates>
+				</Point>
+				<Name>20TH ST @ HEIGHTS BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6074</SimpleData>
+						<SimpleData name="STOP_NAME">20TH ST @ ARLINGTON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.394577,29.803963,0</coordinates>
+				</Point>
+				<Name>20TH ST @ ARLINGTON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6075</SimpleData>
+						<SimpleData name="STOP_NAME">20TH ST @ OXFORD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39237199999999,29.803991,0</coordinates>
+				</Point>
+				<Name>20TH ST @ OXFORD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6076</SimpleData>
+						<SimpleData name="STOP_NAME">20TH ST @ BRADSHAW ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.390671,29.804026,0</coordinates>
+				</Point>
+				<Name>20TH ST @ BRADSHAW ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6077</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ MAIN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38748900000002,29.80386,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ MAIN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6078</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ NORHILL ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38626900000001,29.80385,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ NORHILL ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6079</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ MICHAUX ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38455200000001,29.80386,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ MICHAUX ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6080</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ AIRLINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.382057,29.803749,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ AIRLINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6081</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ NORTHWOOD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.37822,29.80378899999999,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ NORTHWOOD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6082</SimpleData>
+						<SimpleData name="STOP_NAME">CAVALCADE ST @ ENID ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.37570200000002,29.80382,0</coordinates>
+				</Point>
+				<Name>CAVALCADE ST @ ENID ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6595</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ LEXINGTON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41055300000001,29.7316,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ LEXINGTON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6596</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ RICHMOND AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41059099999998,29.733751,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ RICHMOND AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6642</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ LARKIN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.409569,29.77927,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ LARKIN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6643</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ 6TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40907300000001,29.78116,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ 6TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6644</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ 10TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.409767,29.788589,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ 10TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6645</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ 11TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40982099999999,29.791006,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ 11TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6646</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ 12TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40986599999999,29.792231,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ 12TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6647</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ 13TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.409882,29.79402,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ 13TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6648</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ 14TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40992700000001,29.795832,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ 14TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6649</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ 15TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40997299999999,29.797819,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ 15TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6650</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ 17TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41001900000001,29.80064,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ 17TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6651</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ 18TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.410042,29.80162,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ 18TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6652</SimpleData>
+						<SimpleData name="STOP_NAME">SHEPHERD DR @ 20TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41007999999999,29.803564,0</coordinates>
+				</Point>
+				<Name>SHEPHERD DR @ 20TH ST</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+		
+
+
+</Document>
+</kml>
+

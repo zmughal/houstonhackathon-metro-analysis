@@ -1,0 +1,2452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+			<name>MetroRoute_20974</name>
+			<Style id="missing_vehicles77">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8474</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ CORPORATE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.551659,29.689993,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ CORPORATE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8475</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ COLONY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54838599999999,29.690407,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ COLONY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8476</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ PELLA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545799,29.690453,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ PELLA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8477</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ JORINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.543228,29.690485,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ JORINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8478</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ JORINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54048899999999,29.690517,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ JORINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8479</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ LA ROCHE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53784200000001,29.690544,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ LA ROCHE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8480</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.535439,29.690966,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8481</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ TANGLEWILDE AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53236399999999,29.692179,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ TANGLEWILDE AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8482</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ MARY BATES BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53040300000001,29.692469,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ MARY BATES BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8483</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ SOUTHWEST FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52817499999999,29.69223,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ SOUTHWEST FREEWAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8642</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ MARY BATES BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52999899999999,29.692699,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ MARY BATES BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8643</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ TANGLEWILDE AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53213499999998,29.692488,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ TANGLEWILDE AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8644</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.536247,29.690977,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8645</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ LA ROCHE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53742200000001,29.690798,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ LA ROCHE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8646</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ LA ROCHE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.540436,29.690739,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ LA ROCHE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8647</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ JORINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.542778,29.69071,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ JORINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8648</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ PELLA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54547099999999,29.690683,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ PELLA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8649</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ COLONY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54791299999999,29.690653,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ COLONY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8650</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ CORPORATE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.551033,29.690416,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ CORPORATE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8651</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ CLUB CREEK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.553589,29.689589,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ CLUB CREEK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8652</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ SAM HOUSTON PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.55619800000001,29.689396,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ SAM HOUSTON PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8653</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ CLUB CREEK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.554039,29.689228,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ CLUB CREEK DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8980</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ SOUTH COURSE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.56296500000002,29.68915399999999,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ SOUTH COURSE DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9590</SimpleData>
+						<SimpleData name="STOP_NAME">HOLCOMBE BLVD @ FANNIN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.403526,29.706125,0</coordinates>
+				</Point>
+				<Name>HOLCOMBE BLVD @ FANNIN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9971</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ WEDNESBURY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.525475,29.691538,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ WEDNESBURY LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10136</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ HILLCROFT AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49294999999999,29.688381,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ HILLCROFT AVE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10250</SimpleData>
+						<SimpleData name="STOP_NAME">MAIN ST @ HOLCOMBE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.405098,29.705875,0</coordinates>
+				</Point>
+				<Name>MAIN ST @ HOLCOMBE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11025</SimpleData>
+						<SimpleData name="STOP_NAME">TEXAS MEDICAL CENTER TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">24</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">63</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40361,29.704323,0</coordinates>
+				</Point>
+				<Name>TEXAS MEDICAL CENTER TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11025</SimpleData>
+						<SimpleData name="STOP_NAME">TEXAS MEDICAL CENTER TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">24</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">63</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40361,29.704323,0</coordinates>
+				</Point>
+				<Name>TEXAS MEDICAL CENTER TC</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11528</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ STELLA LINK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44029999999999,29.691532,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ STELLA LINK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11603</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ COOK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.59612999999999,29.688965,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ COOK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11604</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ COOK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.59571099999999,29.689205,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ COOK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11889</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ DAIRY VIEW LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.600044,29.688948,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ DAIRY VIEW LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11890</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ DAIRY VIEW LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.600182,29.689182,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ DAIRY VIEW LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11979</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ DAIRY ASHFORD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60341600000001,29.689104,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ DAIRY ASHFORD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11980</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ DAIRY ASHFORD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604546,29.688837,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ DAIRY ASHFORD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11981</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BROOKWULF DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.607063,29.689028,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BROOKWULF DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11982</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BROOKWULF DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60742999999999,29.688808,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BROOKWULF DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11983</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ CRESCENT PARK VILLAG*</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.612427,29.688831,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ CRESCENT PARK VILLAG*</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11984</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ CRESCENT PARK VILLAG*</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.61275500000001,29.68854,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ CRESCENT PARK VILLAG*</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11985</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ SYNOTT RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.614204,29.688658,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ SYNOTT RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11986</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ SYNOTT RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.61467,29.688423,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ SYNOTT RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11987</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ MYSTIC GROVE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.617836,29.688408,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ MYSTIC GROVE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11988</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ MYSTIC GROVE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.617447,29.688643,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ MYSTIC GROVE LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11989</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ ELDRIDGE PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.621872,29.688637,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ ELDRIDGE PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11990</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ ELDRIDGE PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.62254299999998,29.688398,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ ELDRIDGE PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11991</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ HEMLOCK HILL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.626076,29.68808,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ HEMLOCK HILL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11992</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ HEMLOCK HILL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.626587,29.687864,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ HEMLOCK HILL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11993</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ RUSTLING LEAVES DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.62980699999999,29.688946,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ RUSTLING LEAVES DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11994</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ RUSTLING LEAVES DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.63028,29.688931,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ RUSTLING LEAVES DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11995</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ SUGAR LAND HOWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.633667,29.690075,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ SUGAR LAND HOWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11996</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ SUGAR LAND HOWELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.634056,29.690327,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ SUGAR LAND HOWELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11997</SimpleData>
+						<SimpleData name="STOP_NAME">PAVILION POINT @ SUGAR LAND HOWELL</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.63455200000001,29.693008,0</coordinates>
+				</Point>
+				<Name>PAVILION POINT @ SUGAR LAND HOWELL</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11998</SimpleData>
+						<SimpleData name="STOP_NAME">PAVILION POINT @ SUGAR LAND HOWELL</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.63505600000001,29.693119,0</coordinates>
+				</Point>
+				<Name>PAVILION POINT @ SUGAR LAND HOWELL</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11999</SimpleData>
+						<SimpleData name="STOP_NAME">PAVILION POINT   @ PAVILION DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.63784800000001,29.69309,0</coordinates>
+				</Point>
+				<Name>PAVILION POINT   @ PAVILION DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12000</SimpleData>
+						<SimpleData name="STOP_NAME">PAVILION DR @ PAVILION POINT</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.63808400000001,29.693316,0</coordinates>
+				</Point>
+				<Name>PAVILION DR @ PAVILION POINT</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12022</SimpleData>
+						<SimpleData name="STOP_NAME">PAVILION DR @ EMPANADA  DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.63856499999999,29.695852,0</coordinates>
+				</Point>
+				<Name>PAVILION DR @ EMPANADA  DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12001</SimpleData>
+						<SimpleData name="STOP_NAME">EMPANADA DR @ GOLDENSTAR  DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.640091,29.69549900000001,0</coordinates>
+				</Point>
+				<Name>EMPANADA DR @ GOLDENSTAR  DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12002</SimpleData>
+						<SimpleData name="STOP_NAME">EMPANADA DR @ SH 6</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.643387,29.695557,0</coordinates>
+				</Point>
+				<Name>EMPANADA DR @ SH 6</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12003</SimpleData>
+						<SimpleData name="STOP_NAME">SH 6 @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.643745,29.703413,0</coordinates>
+				</Point>
+				<Name>SH 6 @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12004</SimpleData>
+						<SimpleData name="STOP_NAME">PAVILION DR @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.63822200000001,29.703287,0</coordinates>
+				</Point>
+				<Name>PAVILION DR @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12004</SimpleData>
+						<SimpleData name="STOP_NAME">PAVILION DR @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.63822200000001,29.703287,0</coordinates>
+				</Point>
+				<Name>PAVILION DR @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12005</SimpleData>
+						<SimpleData name="STOP_NAME">PAVILION DR @ SUMMER GARDEN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.63808400000001,29.700516,0</coordinates>
+				</Point>
+				<Name>PAVILION DR @ SUMMER GARDEN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12006</SimpleData>
+						<SimpleData name="STOP_NAME">PAVILION DR @ RANCHO MISSION  DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.63804599999999,29.699154,0</coordinates>
+				</Point>
+				<Name>PAVILION DR @ RANCHO MISSION  DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12007</SimpleData>
+						<SimpleData name="STOP_NAME">PAVILION DR @ EMPANADA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.638268,29.695667,0</coordinates>
+				</Point>
+				<Name>PAVILION DR @ EMPANADA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12059</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ LEAMONT</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.57590500000001,29.688166,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ LEAMONT</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">533</SimpleData>
+						<SimpleData name="STOP_NAME">MAIN ST @ PRESSLER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.406662,29.704033,0</coordinates>
+				</Point>
+				<Name>MAIN ST @ PRESSLER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2513</SimpleData>
+						<SimpleData name="STOP_NAME">MAIN ST @ GREENBRIAR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40904999999998,29.701382,0</coordinates>
+				</Point>
+				<Name>MAIN ST @ GREENBRIAR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2514</SimpleData>
+						<SimpleData name="STOP_NAME">MAIN ST @ UNDERWOOD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.410225,29.699877,0</coordinates>
+				</Point>
+				<Name>MAIN ST @ UNDERWOOD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2515</SimpleData>
+						<SimpleData name="STOP_NAME">MAIN ST @ MORNINGSIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.411621,29.698116,0</coordinates>
+				</Point>
+				<Name>MAIN ST @ MORNINGSIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2537</SimpleData>
+						<SimpleData name="STOP_NAME">MAIN ST @ MORNINGSIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.411247,29.698229,0</coordinates>
+				</Point>
+				<Name>MAIN ST @ MORNINGSIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2538</SimpleData>
+						<SimpleData name="STOP_NAME">MAIN ST @ UNDERWOOD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41005699999999,29.699713,0</coordinates>
+				</Point>
+				<Name>MAIN ST @ UNDERWOOD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2539</SimpleData>
+						<SimpleData name="STOP_NAME">MAIN ST @ GREENBRIAR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.409111,29.700935,0</coordinates>
+				</Point>
+				<Name>MAIN ST @ GREENBRIAR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2675</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ CINNAMON LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.565521,29.689312,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ CINNAMON LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4086</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ MAIN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.412155,29.697882,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ MAIN ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4087</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ KELVING ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.414948,29.698345,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ KELVING ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4088</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ KIRBY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41783100000001,29.698099,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ KIRBY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4089</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ SEUSS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.419319,29.697342,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ SEUSS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4090</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ BROMPTON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.423332,29.69739,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ BROMPTON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4091</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ ABERDEEN WAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42561299999998,29.697451,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ ABERDEEN WAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4092</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ BUFFALO SPEEDWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42702499999999,29.69670500000001,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ BUFFALO SPEEDWAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4093</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ GRENNOCH LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42790199999999,29.695749,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ GRENNOCH LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4094</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ TARTAN LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.429672,29.69381,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ TARTAN LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4095</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ EDLOE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43336499999998,29.692825,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ EDLOE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4096</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ BRAES BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43602799999999,29.692381,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ BRAES BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4097</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ BRAES BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43746200000001,29.69185299999999,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ BRAES BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4098</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ STELLA LINK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.439774,29.691765,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ STELLA LINK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4099</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ ACADEMY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44313800000002,29.691212,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ ACADEMY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4100</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ ACADEMY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.445801,29.69013,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ ACADEMY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4101</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ ACADEMY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44831100000002,29.690086,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ ACADEMY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4102</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ NEWCASTLE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45156900000002,29.689348,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ NEWCASTLE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4103</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ FRANKWAY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.454216,29.68928500000001,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ FRANKWAY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4104</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ MEYER PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45674099999999,29.689245,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ MEYER PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4105</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ LOOP</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.456757,29.689024,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ LOOP</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4106</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ FRANKWAY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45423099999999,29.689068,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ FRANKWAY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4107</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ NEWCASTLE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45123299999999,29.689157,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ NEWCASTLE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4108</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ NEWCASTLE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44828800000001,29.689783,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ NEWCASTLE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4109</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ NEWCASTLE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44530499999999,29.689852,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ NEWCASTLE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4110</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ ACADEMY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44319900000001,29.69092,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ ACADEMY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4112</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ GLEN ARBOR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43800400000001,29.691557,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ GLEN ARBOR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4113</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ GLEN ARBOR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43619499999998,29.69206,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ GLEN ARBOR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4114</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ GLEN ARBOR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43360099999998,29.692638,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ GLEN ARBOR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4115</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ GLEN ARBOR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.429733,29.693501,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ GLEN ARBOR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4116</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ GRENNOCH LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.427696,29.695648,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ GRENNOCH LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4117</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ ABERDEEN WAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42584200000002,29.697186,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ ABERDEEN WAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4118</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ BROMPTON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.423683,29.697306,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ BROMPTON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4119</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ SEUSS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41944100000001,29.697063,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ SEUSS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4120</SimpleData>
+						<SimpleData name="STOP_NAME">BRAESWOOD BLVD @ KIRBY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41835800000001,29.69763,0</coordinates>
+				</Point>
+				<Name>BRAESWOOD BLVD @ KIRBY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6721</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BRAE ACRES RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52216300000001,29.691441,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BRAE ACRES RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6722</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BRAEBURN VALLEY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.518272,29.690948,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BRAEBURN VALLEY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6723</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BONHOMME RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51399200000002,29.69091,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BONHOMME RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6724</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ FONDREN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.509506,29.691917,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ FONDREN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6725</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BINTLIFF DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.505692,29.69138,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BINTLIFF DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6726</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BISSONNET ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.503578,29.690155,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BISSONNET ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6727</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ TANAGER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50108299999999,29.68853,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ TANAGER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6728</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ ROBINDELL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.498802,29.688122,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ ROBINDELL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6729</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BRAEWICK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49700199999998,29.688141,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BRAEWICK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6730</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ DUNLAP ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.494461,29.688168,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ DUNLAP ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6731</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ HILLCROFT AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49153899999999,29.688202,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ HILLCROFT AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6732</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ PONTIAC DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.489525,29.688677,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ PONTIAC DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6733</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ MULLINS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48664100000001,29.688904,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ MULLINS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6734</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ RENWICK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48481800000002,29.688917,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ RENWICK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6735</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ RENWICK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.481773,29.688953,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ RENWICK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6736</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BRAESMONT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47950700000001,29.688976,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BRAESMONT DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6738</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ FERRIS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.471977,29.688992,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ FERRIS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6739</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ RICE AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.46803300000001,29.689037,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ RICE AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6740</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ ENDICOTT LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.465141,29.68906,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ ENDICOTT LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6741</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ ENDICOTT LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.46191399999999,29.689077,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ ENDICOTT LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6742</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ LOOP</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45974699999999,29.689114,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ LOOP</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6743</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ LOOP</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.461288,29.689318,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ LOOP</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6744</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ ENDICOTT LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.46448500000001,29.689291,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ ENDICOTT LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6745</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ RICE AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">5</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.467384,29.689253,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ RICE AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6746</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ FERRIS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47171800000001,29.689194,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ FERRIS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6748</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BRAESMONT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47923299999999,29.689203,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BRAESMONT DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6749</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BRAESMONT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.481804,29.689173,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BRAESMONT DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6750</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ RENWICK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.484261,29.689157,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ RENWICK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6751</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ MULLINS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48661,29.689137,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ MULLINS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6752</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ PONTIAC DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.489349,29.688951,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ PONTIAC DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6753</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ QUEBEC DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.491257,29.688469,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ QUEBEC DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6754</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ CARLOTA CT</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49494199999998,29.688332,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ CARLOTA CT</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6755</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BRAEWICK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.496735,29.688313,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BRAEWICK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6756</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ ROBINDELL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.498589,29.688299,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ ROBINDELL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6757</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ ALBACORE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.500801,29.688604,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ ALBACORE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6758</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BISSONNET ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50262499999999,29.689682,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BISSONNET ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6759</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BINTLIFF DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50661500000001,29.691977,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BINTLIFF DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6760</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ FONDREN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51095599999999,29.691984,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ FONDREN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6761</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BONHOMME RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51367199999999,29.691261,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BONHOMME RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6762</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BRAEBURN VALLEY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51754800000001,29.69121,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BRAEBURN VALLEY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6763</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BRAE ACRES RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.521698,29.691723,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BRAE ACRES RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7802</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ SAM HOUSTON PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.55993699999999,29.689795,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ SAM HOUSTON PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7803</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ SOUTH COURSE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.562637,29.689423,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ SOUTH COURSE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7804</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ MAPLECREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.56777200000001,29.689005,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ MAPLECREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7805</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ WILCREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.570053,29.688526,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ WILCREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7806</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BOONE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.57447800000001,29.688158,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BOONE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7807</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ LEAWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.57843800000001,29.688419,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ LEAWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7808</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BANEWAY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.58111599999999,29.688904,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BANEWAY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7809</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ REGENTVIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.58467899999999,29.689011,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ REGENTVIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7810</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ KIRKWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.58667800000001,29.689007,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ KIRKWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7811</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ WHITE CAP LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.588898,29.688997,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ WHITE CAP LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7812</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ RIPTIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.591103,29.688967,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ RIPTIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8003</SimpleData>
+						<SimpleData name="STOP_NAME">BELLAIRE BLVD @ PAVILLION DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.638588,29.703938,0</coordinates>
+				</Point>
+				<Name>BELLAIRE BLVD @ PAVILLION DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8223</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BEECH COVE LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.592094,29.688721,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BEECH COVE LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8224</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ KIRKWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.587936,29.688778,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ KIRKWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8225</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ REGENTVIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.584839,29.688761,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ REGENTVIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8226</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BANEWAY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.581688,29.688738,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BANEWAY DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8227</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ LEAWOOD BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.57811700000001,29.688124,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ LEAWOOD BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8228</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ BOONE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.57505000000002,29.687922,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ BOONE RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8229</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ WILCREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.57051800000001,29.688204,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ WILCREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8230</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ MAPLECREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.56767999999998,29.688786,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ MAPLECREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8231</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ CINNAMON LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.565804,29.689068,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ CINNAMON LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8232</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ SOUTH COURSE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.560165,29.689508,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ SOUTH COURSE DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles77</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8233</SimpleData>
+						<SimpleData name="STOP_NAME">BEECHNUT ST @ SAM HOUSTON PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.558655,29.689468,0</coordinates>
+				</Point>
+				<Name>BEECHNUT ST @ SAM HOUSTON PKWY</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+		
+
+
+</Document>
+</kml>
+

@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+			<name>MetroRoute_21011</name>
+			<Style id="missing_vehicles">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8412</SimpleData>
+						<SimpleData name="STOP_NAME">18TH ST @ MANGUM RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45571100000001,29.801382,0</coordinates>
+				</Point>
+				<Name>18TH ST @ MANGUM RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8413</SimpleData>
+						<SimpleData name="STOP_NAME">18TH ST @ NORTHWEST FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45296500000002,29.801395,0</coordinates>
+				</Point>
+				<Name>18TH ST @ NORTHWEST FREEWAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8536</SimpleData>
+						<SimpleData name="STOP_NAME">HEMPSTEAD RD @ MC ALLISTER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.463364,29.803949,0</coordinates>
+				</Point>
+				<Name>HEMPSTEAD RD @ MC ALLISTER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8537</SimpleData>
+						<SimpleData name="STOP_NAME">HEMPSTEAD RD @ DACOMA ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.46639999999999,29.806322,0</coordinates>
+				</Point>
+				<Name>HEMPSTEAD RD @ DACOMA ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8538</SimpleData>
+						<SimpleData name="STOP_NAME">HEMPSTEAD RD @ FAIRWAY PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.469627,29.80855,0</coordinates>
+				</Point>
+				<Name>HEMPSTEAD RD @ FAIRWAY PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8540</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ ANTOINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47521199999998,29.811291,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ ANTOINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8541</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ HARLAND DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47640999999999,29.810949,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ HARLAND DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8542</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ WOODVINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47850800000001,29.81089,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ WOODVINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8543</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ JACQUELYN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48065199999999,29.81069,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ JACQUELYN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8544</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ JOHANNA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.482727,29.81068,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ JOHANNA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8545</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ WIRT RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48477200000001,29.810659,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ WIRT RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8546</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ SPENWICK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48921200000001,29.81077000000001,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ SPENWICK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8547</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ RIDGECREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49250000000001,29.810905,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ RIDGECREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8548</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ RIDGEMORE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49424000000002,29.811132,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ RIDGEMORE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8549</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ MARNEL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.498116,29.811062,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ MARNEL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8550</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ BINGLE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50065600000001,29.811014,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ BINGLE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8551</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ OJEMAN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.503265,29.811033,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ OJEMAN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8552</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ HOLLISTER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50649300000001,29.811131,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ HOLLISTER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8553</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ HOLLISTER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51001700000002,29.81115,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ HOLLISTER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8554</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ LAVERNE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51236699999998,29.811089,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ LAVERNE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8555</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ PEPPERMILL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.516533,29.81056,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ PEPPERMILL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8556</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ HOSKINS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.522667,29.8099,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ HOSKINS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8557</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ CAMPBELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52599299999999,29.80987,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ CAMPBELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8558</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ ELMVIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52873200000001,29.80932,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ ELMVIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8559</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ CRESTDALE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53072400000001,29.80929,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ CRESTDALE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8560</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ PARANA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53270699999999,29.80941,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ PARANA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8561</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ ELMGATE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53479,29.8102,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ ELMGATE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8562</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ EAGLE ROCK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53616299999999,29.811211,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ EAGLE ROCK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8563</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ ROSEFIELD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53769699999999,29.81217,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ ROSEFIELD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8564</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ TEAGUE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54109200000001,29.81279,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ TEAGUE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8565</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ TEAGUE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.543373,29.81278,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ TEAGUE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8566</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.545013,29.812773,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8567</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.547211,29.812759,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8568</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54937,29.812771,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8569</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ TRIWAY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.55075099999999,29.812771,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ TRIWAY LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8570</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ TRIWAY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.55307000000001,29.812759,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ TRIWAY LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8849</SimpleData>
+						<SimpleData name="STOP_NAME">POST OAK RD @ CLARKSON LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45687100000002,29.792187,0</coordinates>
+				</Point>
+				<Name>POST OAK RD @ CLARKSON LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8850</SimpleData>
+						<SimpleData name="STOP_NAME">POST OAK RD @ WESTVIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45694699999999,29.793652,0</coordinates>
+				</Point>
+				<Name>POST OAK RD @ WESTVIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8851</SimpleData>
+						<SimpleData name="STOP_NAME">POST OAK RD @ WESTVIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45700100000001,29.796125,0</coordinates>
+				</Point>
+				<Name>POST OAK RD @ WESTVIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8852</SimpleData>
+						<SimpleData name="STOP_NAME">POST OAK RD @ HEMPSTEAD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.457184,29.796064,0</coordinates>
+				</Point>
+				<Name>POST OAK RD @ HEMPSTEAD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8895</SimpleData>
+						<SimpleData name="STOP_NAME">POST OAK RD @ 12TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45708499999999,29.790169,0</coordinates>
+				</Point>
+				<Name>POST OAK RD @ 12TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8896</SimpleData>
+						<SimpleData name="STOP_NAME">HEMPSTEAD RD @ LOOP</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45121,29.794813,0</coordinates>
+				</Point>
+				<Name>HEMPSTEAD RD @ LOOP</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8898</SimpleData>
+						<SimpleData name="STOP_NAME">HEMPSTEAD RD @ KARBACH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.460983,29.802259,0</coordinates>
+				</Point>
+				<Name>HEMPSTEAD RD @ KARBACH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10079</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ SHADOWDALE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.554329,29.812765,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ SHADOWDALE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10080</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ SAM HOUSTON PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.562477,29.81283,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ SAM HOUSTON PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10081</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ SHADOWDALE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.553307,29.812599,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ SHADOWDALE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10082</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ TRIWAY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.55104799999999,29.812599,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ TRIWAY LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10083</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ TRIWAY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54734000000001,29.812611,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ TRIWAY LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10084</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54554000000002,29.812597,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10085</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ SHADOWDALE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.55641200000001,29.812759,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ SHADOWDALE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10130</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ ELMGATE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53517200000002,29.81024,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ ELMGATE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10145</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ BAUER DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51909600000002,29.810011,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ BAUER DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10151</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ BLALOCK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52400200000001,29.8099,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ BLALOCK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10154</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ PECH RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49612400000001,29.811081,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ PECH RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10479</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ KERSTEN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.567207,29.812651,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ KERSTEN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10480</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ BRITTMOORE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.569244,29.812862,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ BRITTMOORE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10483</SimpleData>
+						<SimpleData name="STOP_NAME">ALCOTT DR @ BRITTMOORE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.56917600000001,29.816154,0</coordinates>
+				</Point>
+				<Name>ALCOTT DR @ BRITTMOORE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10483</SimpleData>
+						<SimpleData name="STOP_NAME">ALCOTT DR @ BRITTMOORE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.56917600000001,29.816154,0</coordinates>
+				</Point>
+				<Name>ALCOTT DR @ BRITTMOORE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10485</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ KERSTEN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.566574,29.812782,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ KERSTEN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10490</SimpleData>
+						<SimpleData name="STOP_NAME">KERSTEN DR @ ALCOTT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.56716900000001,29.81489,0</coordinates>
+				</Point>
+				<Name>KERSTEN DR @ ALCOTT DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11013</SimpleData>
+						<SimpleData name="STOP_NAME">HEMPSTEAD RD @ LOOP</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45010400000001,29.794361,0</coordinates>
+				</Point>
+				<Name>HEMPSTEAD RD @ LOOP</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11549</SimpleData>
+						<SimpleData name="STOP_NAME">POST OAK RD @ CLARKSON LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.457138,29.792461,0</coordinates>
+				</Point>
+				<Name>POST OAK RD @ CLARKSON LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11924</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ SAM HOUSTON PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.56248499999998,29.81255700000001,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ SAM HOUSTON PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11925</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ SAM HOUSTON PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.556946,29.812593,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ SAM HOUSTON PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12071</SimpleData>
+						<SimpleData name="STOP_NAME">W 18TH ST @ MANGUM RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45886200000001,29.801346,0</coordinates>
+				</Point>
+				<Name>W 18TH ST @ MANGUM RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">12072</SimpleData>
+						<SimpleData name="STOP_NAME">W 18TH ST @ MANGUM RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45845000000001,29.801607,0</coordinates>
+				</Point>
+				<Name>W 18TH ST @ MANGUM RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">79</SimpleData>
+						<SimpleData name="STOP_NAME">NORTHWEST TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">6</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">18</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45560500000001,29.783119,0</coordinates>
+				</Point>
+				<Name>NORTHWEST TC</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">79</SimpleData>
+						<SimpleData name="STOP_NAME">NORTHWEST TC</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">6</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">18</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45560500000001,29.783119,0</coordinates>
+				</Point>
+				<Name>NORTHWEST TC</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2442</SimpleData>
+						<SimpleData name="STOP_NAME">HEMPSTEAD RD @ LONG POINT RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">8</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.461647,29.802488,0</coordinates>
+				</Point>
+				<Name>HEMPSTEAD RD @ LONG POINT RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2444</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ TRIWAY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54892699999999,29.812611,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ TRIWAY LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2471</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54379299999999,29.812605,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2472</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ TEAGUE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.541397,29.81263,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ TEAGUE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2473</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ ROSEFIELD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.538132,29.81218,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ ROSEFIELD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2474</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ EAGLE ROCK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.536469,29.81122,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ EAGLE ROCK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2475</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ PARANA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53301999999999,29.809311,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ PARANA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2476</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ CRESTDALE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.530998,29.80912,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ CRESTDALE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2477</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ ELMVIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.529083,29.80913,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ ELMVIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2478</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ CAMPBELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.526489,29.809681,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ CAMPBELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2479</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ BLALOCK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52475,29.80971,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ BLALOCK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2480</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ HOSKINS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.522919,29.809731,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ HOSKINS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2481</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ LAVERNE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51262699999999,29.810841,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ LAVERNE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2482</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ HOLLISTER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50966599999998,29.81097,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ HOLLISTER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2483</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ HOLLISTER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.505966,29.81093,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ HOLLISTER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2484</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ OJEMAN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50293000000001,29.810862,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ OJEMAN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2485</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ BINGLE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50116,29.810837,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ BINGLE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2486</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ MARNEL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.498993,29.810869,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ MARNEL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2487</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ PECH RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49646,29.810921,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ PECH RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2488</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ RIDGEMORE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.494446,29.810955,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ RIDGEMORE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2489</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ RIDGECREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49273699999999,29.810789,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ RIDGECREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2490</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ SPENWICK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.489502,29.8106,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ SPENWICK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2491</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ WIRT RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48542,29.81049,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ WIRT RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2492</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ JOHANNA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.483063,29.810511,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ JOHANNA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2493</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ JACQUELYN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48101800000001,29.810511,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ JACQUELYN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2494</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ WOODVINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47873700000001,29.81068,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ WOODVINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2495</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ HARLAND DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.476662,29.81078,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ HARLAND DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2496</SimpleData>
+						<SimpleData name="STOP_NAME">ANTOINE DR @ TODD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47479199999999,29.811371,0</coordinates>
+				</Point>
+				<Name>ANTOINE DR @ TODD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2498</SimpleData>
+						<SimpleData name="STOP_NAME">HEMPSTEAD RD @ FAIRWAY PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.46987900000001,29.80847,0</coordinates>
+				</Point>
+				<Name>HEMPSTEAD RD @ FAIRWAY PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2499</SimpleData>
+						<SimpleData name="STOP_NAME">HEMPSTEAD RD @ SILBER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.466713,29.806173,0</coordinates>
+				</Point>
+				<Name>HEMPSTEAD RD @ SILBER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2500</SimpleData>
+						<SimpleData name="STOP_NAME">HEMPSTEAD RD @ MC ALLISTER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.463295,29.803686,0</coordinates>
+				</Point>
+				<Name>HEMPSTEAD RD @ MC ALLISTER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5148</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ BAUER DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51960800000001,29.80975,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ BAUER DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5149</SimpleData>
+						<SimpleData name="STOP_NAME">HAMMERLY BLVD @ PEPPERMILL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51626599999999,29.810431,0</coordinates>
+				</Point>
+				<Name>HAMMERLY BLVD @ PEPPERMILL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6508</SimpleData>
+						<SimpleData name="STOP_NAME">11TH ST @ HEMPSTEAD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.440781,29.789087,0</coordinates>
+				</Point>
+				<Name>11TH ST @ HEMPSTEAD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6510</SimpleData>
+						<SimpleData name="STOP_NAME">SEAMIST DR @ 12TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.437798,29.791424,0</coordinates>
+				</Point>
+				<Name>SEAMIST DR @ 12TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6511</SimpleData>
+						<SimpleData name="STOP_NAME">SEAMIST DR @ WYNNWOOD LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43795799999999,29.794052,0</coordinates>
+				</Point>
+				<Name>SEAMIST DR @ WYNNWOOD LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6512</SimpleData>
+						<SimpleData name="STOP_NAME">SEAMIST DR @ CINDY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43800400000001,29.795393,0</coordinates>
+				</Point>
+				<Name>SEAMIST DR @ CINDY LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6513</SimpleData>
+						<SimpleData name="STOP_NAME">SEAMIST DR @ KURY LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43801899999998,29.79719,0</coordinates>
+				</Point>
+				<Name>SEAMIST DR @ KURY LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6514</SimpleData>
+						<SimpleData name="STOP_NAME">SEAMIST DR @ TANNEHILL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43800400000001,29.798956,0</coordinates>
+				</Point>
+				<Name>SEAMIST DR @ TANNEHILL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6515</SimpleData>
+						<SimpleData name="STOP_NAME">SEAMIST DR @ W 18TH</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43801899999998,29.800467,0</coordinates>
+				</Point>
+				<Name>SEAMIST DR @ W 18TH</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6516</SimpleData>
+						<SimpleData name="STOP_NAME">18TH ST @ MILLWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.439941,29.801701,0</coordinates>
+				</Point>
+				<Name>18TH ST @ MILLWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6517</SimpleData>
+						<SimpleData name="STOP_NAME">18TH ST @ MILL CREEK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44339000000001,29.801687,0</coordinates>
+				</Point>
+				<Name>18TH ST @ MILL CREEK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6518</SimpleData>
+						<SimpleData name="STOP_NAME">18TH ST @ LOCKSFORD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.445938,29.801662,0</coordinates>
+				</Point>
+				<Name>18TH ST @ LOCKSFORD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6519</SimpleData>
+						<SimpleData name="STOP_NAME">18TH ST @ LOOP</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44792200000001,29.801668,0</coordinates>
+				</Point>
+				<Name>18TH ST @ LOOP</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6520</SimpleData>
+						<SimpleData name="STOP_NAME">18TH ST @ LOOP</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.447823,29.801435,0</coordinates>
+				</Point>
+				<Name>18TH ST @ LOOP</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6521</SimpleData>
+						<SimpleData name="STOP_NAME">18TH ST @ SALFORD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44553399999999,29.801455,0</coordinates>
+				</Point>
+				<Name>18TH ST @ SALFORD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6522</SimpleData>
+						<SimpleData name="STOP_NAME">18TH ST @ MILL CREEK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.443291,29.801468,0</coordinates>
+				</Point>
+				<Name>18TH ST @ MILL CREEK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6523</SimpleData>
+						<SimpleData name="STOP_NAME">18TH ST @ MILLWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44019299999999,29.801476,0</coordinates>
+				</Point>
+				<Name>18TH ST @ MILLWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6524</SimpleData>
+						<SimpleData name="STOP_NAME">SEAMIST DR @ 18TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43814799999998,29.801189,0</coordinates>
+				</Point>
+				<Name>SEAMIST DR @ 18TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6525</SimpleData>
+						<SimpleData name="STOP_NAME">SEAMIST DR @ HAVERHILL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43814799999998,29.799925,0</coordinates>
+				</Point>
+				<Name>SEAMIST DR @ HAVERHILL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6526</SimpleData>
+						<SimpleData name="STOP_NAME">SEAMIST DR @ DROXFORD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.438118,29.798405,0</coordinates>
+				</Point>
+				<Name>SEAMIST DR @ DROXFORD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6527</SimpleData>
+						<SimpleData name="STOP_NAME">SEAMIST DR @ LINDYANN LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43814100000002,29.796427,0</coordinates>
+				</Point>
+				<Name>SEAMIST DR @ LINDYANN LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6528</SimpleData>
+						<SimpleData name="STOP_NAME">SEAMIST DR @ WYNNWOOD LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.438103,29.794123,0</coordinates>
+				</Point>
+				<Name>SEAMIST DR @ WYNNWOOD LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6529</SimpleData>
+						<SimpleData name="STOP_NAME">SEAMIST DR @ 12TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43795,29.791727,0</coordinates>
+				</Point>
+				<Name>SEAMIST DR @ 12TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6531</SimpleData>
+						<SimpleData name="STOP_NAME">11TH ST @ SEAMIST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.440636,29.789299,0</coordinates>
+				</Point>
+				<Name>11TH ST @ SEAMIST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6532</SimpleData>
+						<SimpleData name="STOP_NAME">HEMPSTEAD RD @ 12TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.446068,29.79134,0</coordinates>
+				</Point>
+				<Name>HEMPSTEAD RD @ 12TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6533</SimpleData>
+						<SimpleData name="STOP_NAME">HEMPSTEAD RD @ 12TH ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44611399999998,29.79109,0</coordinates>
+				</Point>
+				<Name>HEMPSTEAD RD @ 12TH ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8248</SimpleData>
+						<SimpleData name="STOP_NAME">POST OAK RD @ AWTY SCHOOL LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">10</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45681,29.787184,0</coordinates>
+				</Point>
+				<Name>POST OAK RD @ AWTY SCHOOL LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8249</SimpleData>
+						<SimpleData name="STOP_NAME">POST OAK RD @ AWTY SCHOOL LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">10</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45684799999999,29.789398,0</coordinates>
+				</Point>
+				<Name>POST OAK RD @ AWTY SCHOOL LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8258</SimpleData>
+						<SimpleData name="STOP_NAME">POST OAK RD @ AWTY SCHOOL LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">7</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.457008,29.78754,0</coordinates>
+				</Point>
+				<Name>POST OAK RD @ AWTY SCHOOL LN</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+		
+
+
+</Document>
+</kml>
+

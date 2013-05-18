@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+			<name>MetroRoute_21012</name>
+			<Style id="missing_vehicles36">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10017</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ CHRISMAN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36359400000001,29.902206,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ CHRISMAN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10100</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ HARDY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.37494700000001,29.90222,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ HARDY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10610</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ GLOGER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.331459,29.902369,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ GLOGER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10611</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ GLOGER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.329971,29.902452,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ GLOGER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10612</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ DETERMINED D</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.325806,29.902578,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ DETERMINED D</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10613</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ VICKERY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.323555,29.902695,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ VICKERY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10614</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ BOREAS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32119800000001,29.902725,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ BOREAS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10615</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ MAC NAUGHTON</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.318924,29.902746,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ MAC NAUGHTON</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10616</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ FANTASY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.315887,29.902798,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ FANTASY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10617</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ EASTEX FREEW</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31292000000001,29.902815,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ EASTEX FREEW</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10682</SimpleData>
+						<SimpleData name="STOP_NAME">NORTH FREEWAY   @ GREENS LANDING DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41291,29.920721,0</coordinates>
+				</Point>
+				<Name>NORTH FREEWAY   @ GREENS LANDING DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10695</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ SELLERS RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38729099999999,29.90214,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ SELLERS RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11275</SimpleData>
+						<SimpleData name="STOP_NAME">EAST HAMPTON DR @ EASTEX FWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.31131000000001,29.901123,0</coordinates>
+				</Point>
+				<Name>EAST HAMPTON DR @ EASTEX FWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11276</SimpleData>
+						<SimpleData name="STOP_NAME">EAST HAMPTON DR @ ALDINE MAIL ROUTE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.30936400000002,29.901144,0</coordinates>
+				</Point>
+				<Name>EAST HAMPTON DR @ ALDINE MAIL ROUTE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11277</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ EASTEX FREEW</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.309372,29.901958,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ EASTEX FREEW</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11278</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ JOHN F KENNE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33223700000001,29.902575,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ JOHN F KENNE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11279</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ FERN MEADOW</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.336212,29.902573,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ FERN MEADOW</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11280</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ FALL MEADOW</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.339584,29.902525,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ FALL MEADOW</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11281</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ DEERGROVE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.34395600000002,29.902475,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ DEERGROVE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11282</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ RUSS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.348122,29.902456,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ RUSS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11283</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ RUSS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35142499999999,29.902431,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ RUSS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11284</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ ALDINE WESTF</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.354904,29.902403,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ ALDINE WESTF</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11285</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ BURTCLIFF ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.389214,29.90213,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ BURTCLIFF ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles36</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11286</SimpleData>
+						<SimpleData name="STOP_NAME">WEST RD @ SWEETWATER LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40852400000001,29.915258,0</coordinates>
+				</Point>
+				<Name>WEST RD @ SWEETWATER LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles36</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11287</SimpleData>
+						<SimpleData name="STOP_NAME">WEST RD @ NORTH FWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41144599999998,29.915226,0</coordinates>
+				</Point>
+				<Name>WEST RD @ NORTH FWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11289</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ AIRLINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39986400000001,29.902519,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ AIRLINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11290</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ BURTCLIFF ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.389359,29.90204,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ BURTCLIFF ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11291</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ SELLERS RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.386887,29.90204200000001,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ SELLERS RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11293</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ RUSS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.348343,29.902283,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ RUSS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11294</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ FALL MEADOW</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33980599999998,29.90231899999999,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ FALL MEADOW</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11295</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ FERN MEADOW</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33647899999998,29.902346,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ FERN MEADOW</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11296</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ JOHN F KENNE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.33268700000001,29.902376,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ JOHN F KENNE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11301</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ GLOGER ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32782700000001,29.902548,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ GLOGER ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11568</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ LILLJA RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.391533,29.902222,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ LILLJA RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4838</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ ROBERTCREST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35828400000001,29.902372,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ ROBERTCREST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4839</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ CHRISMAN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36338000000001,29.902334,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ CHRISMAN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4840</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ REEVESTON RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.36752299999999,29.90229,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ REEVESTON RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4855</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ US 59</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.313339,29.903009,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ US 59</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4855</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ US 59</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.313339,29.903009,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ US 59</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4856</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ FANTASY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.315567,29.902973,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ FANTASY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4857</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ MAC NAUGHTON</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.318596,29.902939,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ MAC NAUGHTON</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4858</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ MAC NAUGHTON</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32109800000001,29.902901,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ MAC NAUGHTON</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4859</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ VICKERY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.32337200000001,29.902882,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ VICKERY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4860</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ DETERMINED D</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.325958,29.902779,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ DETERMINED D</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4861</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ DETERMINED D</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.327698,29.902691,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ DETERMINED D</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4862</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ DETERMINED D</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.329987,29.90262,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ DETERMINED D</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5365</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ AIRLINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39731600000002,29.902576,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ AIRLINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5366</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ LILLJA RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39162399999999,29.902168,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ LILLJA RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5378</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ HENRY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.382767,29.902063,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ HENRY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5379</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ SWEENEY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.37862400000002,29.902103,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ SWEENEY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5380</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ SWEENEY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.37486299999999,29.902138,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ SWEENEY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5381</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ SWEENEY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.378365,29.902201,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ SWEENEY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5382</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ HENRY RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38249999999999,29.902163,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ HENRY RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5397</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ LILLJA RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39728500000001,29.902674,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ LILLJA RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5398</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ AIRLINE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39980300000001,29.902643,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ AIRLINE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5417</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ REEVESTON RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.367783,29.902195,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ REEVESTON RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5418</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ CHRISMAN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35826900000001,29.902237,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ CHRISMAN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5419</SimpleData>
+						<SimpleData name="STOP_NAME">ALDINE MAIL ROUTE RD @ ALDINE WESTF</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.35527799999998,29.902279,0</coordinates>
+				</Point>
+				<Name>ALDINE MAIL ROUTE RD @ ALDINE WESTF</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5850</SimpleData>
+						<SimpleData name="STOP_NAME">IH-45 SERVICE RD @ WEST RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.412132,29.915712,0</coordinates>
+				</Point>
+				<Name>IH-45 SERVICE RD @ WEST RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5851</SimpleData>
+						<SimpleData name="STOP_NAME">NORTH FREEWAY   @ DYNA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.411903,29.921535,0</coordinates>
+				</Point>
+				<Name>NORTH FREEWAY   @ DYNA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5852</SimpleData>
+						<SimpleData name="STOP_NAME">NORTH FREEWAY   @ GOODSON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41172,29.924459,0</coordinates>
+				</Point>
+				<Name>NORTH FREEWAY   @ GOODSON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5853</SimpleData>
+						<SimpleData name="STOP_NAME">NORTH FREEWAY   @ GILLESPI ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41153700000001,29.92745,0</coordinates>
+				</Point>
+				<Name>NORTH FREEWAY   @ GILLESPI ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5863</SimpleData>
+						<SimpleData name="STOP_NAME">AIRLINE DR @ MC FARLAND RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40421299999998,29.912479,0</coordinates>
+				</Point>
+				<Name>AIRLINE DR @ MC FARLAND RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5864</SimpleData>
+						<SimpleData name="STOP_NAME">AIRLINE DR @ HAMBRICK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40327499999999,29.909883,0</coordinates>
+				</Point>
+				<Name>AIRLINE DR @ HAMBRICK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5865</SimpleData>
+						<SimpleData name="STOP_NAME">AIRLINE DR @ BLUE BELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.402466,29.907598,0</coordinates>
+				</Point>
+				<Name>AIRLINE DR @ BLUE BELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5866</SimpleData>
+						<SimpleData name="STOP_NAME">AIRLINE DR @ MADING LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.402,29.906363,0</coordinates>
+				</Point>
+				<Name>AIRLINE DR @ MADING LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5867</SimpleData>
+						<SimpleData name="STOP_NAME">AIRLINE DR @ BUSCH DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.401466,29.904869,0</coordinates>
+				</Point>
+				<Name>AIRLINE DR @ BUSCH DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5894</SimpleData>
+						<SimpleData name="STOP_NAME">AIRLINE DR @ BUSCH DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40116900000001,29.904642,0</coordinates>
+				</Point>
+				<Name>AIRLINE DR @ BUSCH DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5897</SimpleData>
+						<SimpleData name="STOP_NAME">AIRLINE DR @ BLUE BELL RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40213799999998,29.907314,0</coordinates>
+				</Point>
+				<Name>AIRLINE DR @ BLUE BELL RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5898</SimpleData>
+						<SimpleData name="STOP_NAME">AIRLINE DR @ HAMERICK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40293900000002,29.909531,0</coordinates>
+				</Point>
+				<Name>AIRLINE DR @ HAMERICK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5899</SimpleData>
+						<SimpleData name="STOP_NAME">AIRLINE DR @ MC FARLAND RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.403954,29.912359,0</coordinates>
+				</Point>
+				<Name>AIRLINE DR @ MC FARLAND RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6795</SimpleData>
+						<SimpleData name="STOP_NAME">NORTH FREEWAY   @ GILLESPI ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41242200000001,29.927877,0</coordinates>
+				</Point>
+				<Name>NORTH FREEWAY   @ GILLESPI ST</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+		
+
+
+</Document>
+</kml>
+

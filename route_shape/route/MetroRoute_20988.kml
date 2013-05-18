@@ -1,0 +1,3390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+			<name>MetroRoute_20988</name>
+			<Style id="missing_vehicles35">
+				<IconStyle>
+					<color>ff0000ff</color>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8501</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ DAFFODIL</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52074399999999,29.728031,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ DAFFODIL</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8502</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ PAGEWOOD LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52069899999999,29.72567,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ PAGEWOOD LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8503</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ LIPAN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.520668,29.723907,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ LIPAN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8504</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ WESTPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52059199999999,29.72216,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ WESTPARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8505</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ GLENMONT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.520157,29.719807,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ GLENMONT DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8506</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ HARWIN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52014200000001,29.71806,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ HARWIN DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8507</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ PRESTWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52010300000001,29.716354,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ PRESTWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8508</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ GULFTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52024799999998,29.714766,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ GULFTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8509</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ DASHWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52143900000002,29.707523,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ DASHWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8510</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52143100000001,29.705973,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8511</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.5214,29.704739,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8512</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ CROTON RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.520432,29.702477,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ CROTON RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8513</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ SOUTHWEST FREEWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51840199999998,29.700615,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ SOUTHWEST FREEWAY</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8517</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ BELLAIRE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">8</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.521164,29.705973,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ BELLAIRE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8518</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ DASHWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">8</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.521164,29.707182,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ DASHWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8519</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ CLAREWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">4</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">8</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52119400000001,29.709145,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ CLAREWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8520</SimpleData>
+						<SimpleData name="STOP_NAME">CLAREWOOD DR @ MARINETTE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51815000000001,29.709644,0</coordinates>
+				</Point>
+				<Name>CLAREWOOD DR @ MARINETTE DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8525</SimpleData>
+						<SimpleData name="STOP_NAME">BELLERIVE DR @ MARINETTE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51797500000001,29.71307,0</coordinates>
+				</Point>
+				<Name>BELLERIVE DR @ MARINETTE DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8526</SimpleData>
+						<SimpleData name="STOP_NAME">BELLERIVE DR @ FONDREN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.520561,29.713125,0</coordinates>
+				</Point>
+				<Name>BELLERIVE DR @ FONDREN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8527</SimpleData>
+						<SimpleData name="STOP_NAME">BELLERIVE DR @ FONDREN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52029400000002,29.712946,0</coordinates>
+				</Point>
+				<Name>BELLERIVE DR @ FONDREN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8528</SimpleData>
+						<SimpleData name="STOP_NAME">BELLERIVE DR @ MARINETTE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51821899999999,29.71295,0</coordinates>
+				</Point>
+				<Name>BELLERIVE DR @ MARINETTE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8529</SimpleData>
+						<SimpleData name="STOP_NAME">BELLERIVE DR @ REIMS RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.515877,29.712976,0</coordinates>
+				</Point>
+				<Name>BELLERIVE DR @ REIMS RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8534</SimpleData>
+						<SimpleData name="STOP_NAME">CLAREWOOD DR @ MARINETTE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.517853,29.70977,0</coordinates>
+				</Point>
+				<Name>CLAREWOOD DR @ MARINETTE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8535</SimpleData>
+						<SimpleData name="STOP_NAME">CLAREWOOD DR @ FONDREN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">9</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.520393,29.709682,0</coordinates>
+				</Point>
+				<Name>CLAREWOOD DR @ FONDREN RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8986</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ ROGERDALE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.56518599999998,29.727926,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ ROGERDALE RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8987</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WALNUT BEND LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.56783299999999,29.727894,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WALNUT BEND LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8988</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WILCREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.57139599999999,29.727856,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WILCREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8989</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WILCREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.57383000000002,29.727833,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WILCREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8990</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ HAYES RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.57589000000002,29.727951,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ HAYES RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9013</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ DUNVALE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51181800000001,29.729174,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ DUNVALE RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9014</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ FOUNTAIN VIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48391700000001,29.731644,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ FOUNTAIN VIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9015</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ GREENRIDGE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48962400000001,29.731926,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ GREENRIDGE DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9016</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ UNITY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49762699999999,29.731836,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ UNITY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9017</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.539894,29.72784,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9018</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WESTCHASE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.551247,29.728287,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WESTCHASE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9019</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BRIARPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.549385,29.728613,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BRIARPARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9020</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WOODCHASE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54550900000001,29.728537,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WOODCHASE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9021</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ ELMSIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.542709,29.727852,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ ELMSIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9022</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53961899999999,29.727585,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9023</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ TANGLEWILDE AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.53538500000001,29.72843,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ TANGLEWILDE AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9024</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WESTERLAND DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.531464,29.728863,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WESTERLAND DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9025</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ OCEE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52926599999999,29.728863,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ OCEE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9026</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ JEANETTA LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.525368,29.728905,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ JEANETTA LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9027</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ FONDREN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52102699999999,29.728926,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ FONDREN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9028</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ CROSSVIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51927899999998,29.728951,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ CROSSVIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9029</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BUTTERCUP ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.517044,29.729128,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BUTTERCUP ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9030</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ DUNVALE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51438900000001,29.729176,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ DUNVALE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9031</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ ANN ARBOR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.510544,29.729191,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ ANN ARBOR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9032</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ STONEY BROOK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50675200000001,29.729822,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ STONEY BROOK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9033</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ CHRIS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50399,29.730898,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ CHRIS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9034</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ HILLCROFT AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50148,29.731506,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ HILLCROFT AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9035</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ HILLCROFT AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.501938,29.731745,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ HILLCROFT AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9036</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ STONEY BROOK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.50619500000001,29.73031,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ STONEY BROOK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9037</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BEVERLY HILL ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.508331,29.729591,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BEVERLY HILL ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9038</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ ANN ARBOR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51029200000001,29.72945,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ ANN ARBOR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9039</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ ANN ARBOR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51191700000001,29.729443,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ ANN ARBOR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9040</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ DUNVALE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.513924,29.729439,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ DUNVALE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9041</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BUTTERCUP ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51671599999999,29.729406,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BUTTERCUP ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9042</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BUTTERCUP ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.518585,29.729267,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BUTTERCUP ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9043</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ FONDREN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52006499999999,29.729197,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ FONDREN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9044</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ OCEE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52858700000002,29.729116,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ OCEE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9045</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WESTERLAND DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.531265,29.729115,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WESTERLAND DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9046</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ TANGLEWILDE AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.535217,29.728781,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ TANGLEWILDE AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9047</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ ELMSIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.543114,29.728189,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ ELMSIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9048</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WOODCHASE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54508199999998,29.728678,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WOODCHASE DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9049</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WESTCHASE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.550674,29.728624,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WESTCHASE DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9050</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ SEAGLER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.55341300000001,29.727879,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ SEAGLER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9051</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ UNITY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.495758,29.731598,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ UNITY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9052</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ UNITY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.492317,29.731638,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ UNITY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9053</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ GREENRIDGE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48754099999999,29.731644,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ GREENRIDGE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9054</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ FOUNTAIN VIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48484000000002,29.7314,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ FOUNTAIN VIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9055</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ FOUNTAIN VIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48204,29.731398,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ FOUNTAIN VIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9056</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ CHIMNEY ROCK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.476799,29.731359,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ CHIMNEY ROCK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9057</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ CHIMNEY ROCK RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47595200000001,29.731621,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ CHIMNEY ROCK RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9058</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BERING DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.480217,29.73167,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BERING DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9059</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BERING DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48214,29.731659,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BERING DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9060</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ GREENRIDGE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49228700000002,29.731909,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ GREENRIDGE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9061</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ GREENRIDGE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.495789,29.73186099999999,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ GREENRIDGE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9067</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BERING DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.480667,29.731392,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BERING DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9068</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BERRINGTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.474442,29.731379,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BERRINGTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9069</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ FOUNTAIN VIEW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48718300000002,29.731916,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ FOUNTAIN VIEW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9070</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ JEANETTA LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52494,29.729177,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ JEANETTA LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9071</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BRIARPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.54879,29.72888,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BRIARPARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">9341</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ TRAVIS ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38413199999999,29.734495,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ TRAVIS ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10056</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ CUMMINS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43862900000001,29.732567,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ CUMMINS</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10139</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ GREENRIDGE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.48992899999999,29.73167,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ GREENRIDGE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">10400</SimpleData>
+						<SimpleData name="STOP_NAME">SYNOTT RD @ ALIEF CLODINE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.614799,29.713926,0</coordinates>
+				</Point>
+				<Name>SYNOTT RD @ ALIEF CLODINE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11030</SimpleData>
+						<SimpleData name="STOP_NAME">WHEELER STATION BUS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.383194,29.733192,0</coordinates>
+				</Point>
+				<Name>WHEELER STATION BUS</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11030</SimpleData>
+						<SimpleData name="STOP_NAME">WHEELER STATION BUS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.383194,29.733192,0</coordinates>
+				</Point>
+				<Name>WHEELER STATION BUS</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11047</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BUTE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.384277,29.734703,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BUTE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11049</SimpleData>
+						<SimpleData name="STOP_NAME">MAIN ST @ WHEELER STATION</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38369000000002,29.733095,0</coordinates>
+				</Point>
+				<Name>MAIN ST @ WHEELER STATION</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11322</SimpleData>
+						<SimpleData name="STOP_NAME">JASON ST @ GESSNER RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52835100000001,29.685158,0</coordinates>
+				</Point>
+				<Name>JASON ST @ GESSNER RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11323</SimpleData>
+						<SimpleData name="STOP_NAME">WEDNESBURY LN @ TROULON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52609999999999,29.690887,0</coordinates>
+				</Point>
+				<Name>WEDNESBURY LN @ TROULON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11323</SimpleData>
+						<SimpleData name="STOP_NAME">WEDNESBURY LN @ TROULON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52609999999999,29.690887,0</coordinates>
+				</Point>
+				<Name>WEDNESBURY LN @ TROULON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11320</SimpleData>
+						<SimpleData name="STOP_NAME">WEDNESBURY LN @ TROULON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52609300000002,29.688547,0</coordinates>
+				</Point>
+				<Name>WEDNESBURY LN @ TROULON DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11321</SimpleData>
+						<SimpleData name="STOP_NAME">WEDNESBURY LN @ JASON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52604700000001,29.685537,0</coordinates>
+				</Point>
+				<Name>WEDNESBURY LN @ JASON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11407</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND DR @ YUPON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39588899999998,29.734537,0</coordinates>
+				</Point>
+				<Name>RICHMOND DR @ YUPON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11408</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND ST @ YUPON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39578200000001,29.734371,0</coordinates>
+				</Point>
+				<Name>RICHMOND ST @ YUPON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11582</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ KIRKWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.58959200000001,29.730919,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ KIRKWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11583</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND DR @ KIRKWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.586006,29.730864,0</coordinates>
+				</Point>
+				<Name>RICHMOND DR @ KIRKWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">11584</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND DR @ ROYAL OAKS BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.586037,29.731121,0</coordinates>
+				</Point>
+				<Name>RICHMOND DR @ ROYAL OAKS BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">94</SimpleData>
+						<SimpleData name="STOP_NAME">MISSION BEND PR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">8</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.62940999999999,29.711374,0</coordinates>
+				</Point>
+				<Name>MISSION BEND PR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">94</SimpleData>
+						<SimpleData name="STOP_NAME">MISSION BEND PR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">8</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.62940999999999,29.711374,0</coordinates>
+				</Point>
+				<Name>MISSION BEND PR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">105</SimpleData>
+						<SimpleData name="STOP_NAME">PLAZAMERICAS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">3</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">5</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51570100000001,29.705261,0</coordinates>
+				</Point>
+				<Name>PLAZAMERICAS</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">539</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ TIMMONS LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43617999999998,29.732838,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ TIMMONS LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">698</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ EDLOE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.434494,29.732943,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ EDLOE ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">699</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ TIMMONS LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43544000000001,29.732594,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ TIMMONS LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">700</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ EDLOE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.432785,29.733007,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ EDLOE ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">701</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ GREENWAY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43038199999999,29.733624,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ GREENWAY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2963</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ SHEPHERD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41030099999999,29.734167,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ SHEPHERD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2964</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ HAZARD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.407211,29.73419,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ HAZARD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2965</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WOODHEAD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40467099999999,29.734221,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WOODHEAD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2966</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ DUNLAVY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40224499999998,29.734241,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ DUNLAVY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2967</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MANDELL ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40000200000001,29.734329,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MANDELL ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2968</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ LORETTO DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39753000000002,29.734354,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ LORETTO DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2969</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MT VERNON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.393806,29.734398,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MT VERNON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2970</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MONTROSE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.391533,29.734423,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MONTROSE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2971</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ ROSELAND ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38994599999998,29.734432,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ ROSELAND ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2972</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ STANFORD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.388443,29.734434,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ STANFORD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2973</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ JACK ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.387016,29.734381,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ JACK ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2974</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ JACK ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.38679500000001,29.734573,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ JACK ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2975</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ STANFORD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.389236,29.734594,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ STANFORD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2976</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MONTROSE BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.391724,29.734571,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MONTROSE BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2977</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MT VERNON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39426400000001,29.734541,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MT VERNON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2978</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ LORETTO DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.397186,29.734533,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ LORETTO DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2979</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MANDELL ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.39923899999999,29.734512,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MANDELL ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2980</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ DUNLAVY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.401886,29.734428,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ DUNLAVY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2981</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WOODHEAD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40433500000002,29.734388,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WOODHEAD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2982</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ HAZARD ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40691400000001,29.734362,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ HAZARD ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">2983</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ SHEPHERD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41018699999999,29.734314,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ SHEPHERD DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">4135</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ SAM HOUSTON PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.556084,29.727467,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ SAM HOUSTON PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5113</SimpleData>
+						<SimpleData name="STOP_NAME">GESSNER RD @ TYBOR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.529533,29.68749,0</coordinates>
+				</Point>
+				<Name>GESSNER RD @ TYBOR DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5189</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ CUMMINS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.43821700000001,29.732815,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ CUMMINS</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5190</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WESLAYAN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.441101,29.732782,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WESLAYAN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5191</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WESLAYAN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44255099999998,29.732771,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WESLAYAN ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5192</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ DREXEL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.445892,29.732681,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ DREXEL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5193</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ DREXEL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.447487,29.732658,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ DREXEL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5194</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ DREXEL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.448875,29.732628,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ DREXEL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5195</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MID LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45030199999999,29.732559,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MID LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5196</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ NEWCASTLE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45212599999999,29.732876,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ NEWCASTLE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5197</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ STAUNTON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45362899999999,29.732845,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ STAUNTON ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5198</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ LANCASHIRE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.456512,29.732792,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ LANCASHIRE ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5199</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ GUITON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">3</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.458527,29.732166,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ GUITON ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5200</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MERWIN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.458344,29.731895,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MERWIN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5201</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ LANCASHIRE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.45596299999998,29.732594,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ LANCASHIRE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5202</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ STAUNTON ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.453979,29.732601,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ STAUNTON ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5203</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ NEWCASTLE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.452423,29.732613,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ NEWCASTLE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5204</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MID LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.450272,29.732325,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MID LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5205</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MID LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.448677,29.732286,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MID LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5206</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ DREXEL DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44664800000001,29.73234,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ DREXEL DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5207</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WESLAYAN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.44206200000002,29.732542,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WESLAYAN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5208</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WESLAYAN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.440483,29.732561,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WESLAYAN ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5545</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BUFFALO SPEEDWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42881800000001,29.733831,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BUFFALO SPEEDWAY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5546</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ AUDLEY ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.425804,29.733906,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ AUDLEY ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5547</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ EASTSIDE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42377500000001,29.7339,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ EASTSIDE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5548</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WAKEFOREST ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42195100000001,29.733931,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WAKEFOREST ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5549</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ KIRBY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41802199999998,29.734028,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ KIRBY DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5550</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MORNINGSIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41538199999999,29.7341,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MORNINGSIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">5551</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ GREENBRIAR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.413239,29.734121,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ GREENBRIAR DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6597</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ GREENBRIAR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41261299999998,29.734306,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ GREENBRIAR DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6598</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MORNINGSIDE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.415077,29.734289,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MORNINGSIDE DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6599</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ KIRBY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.41841099999999,29.734247,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ KIRBY DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6600</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WAKEFOREST ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.421982,29.734173,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WAKEFOREST ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6601</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ EASTSIDE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.42433899999999,29.734156,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ EASTSIDE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6602</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ EASTSIDE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.427299,29.734121,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ EASTSIDE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6603</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BUFFALO SPEEDWAY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.430099,29.733915,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BUFFALO SPEEDWAY</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6605</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ EDLOE ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">6</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.432709,29.73328,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ EDLOE ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6953</SimpleData>
+						<SimpleData name="STOP_NAME">SOUTHWEST FREEWAY   @ BEECHNUT ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52468100000002,29.693602,0</coordinates>
+				</Point>
+				<Name>SOUTHWEST FREEWAY   @ BEECHNUT ST</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">6954</SimpleData>
+						<SimpleData name="STOP_NAME">SOUTHWEST FREEWAY   @ FONDREN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51831799999999,29.6992,0</coordinates>
+				</Point>
+				<Name>SOUTHWEST FREEWAY   @ FONDREN RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7048</SimpleData>
+						<SimpleData name="STOP_NAME">SOUTHWEST FREEWAY   @ NEFF ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.514702,29.7024,0</coordinates>
+				</Point>
+				<Name>SOUTHWEST FREEWAY   @ NEFF ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7186</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ POST OAK BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.46150999999999,29.732069,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ POST OAK BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7187</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MC CUE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.463852,29.731947,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MC CUE RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7188</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ RICE AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.468018,29.731684,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ RICE AVE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7189</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ YORKTOWN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47154199999999,29.731649,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ YORKTOWN ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7190</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ BERRINGTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47383099999999,29.731627,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ BERRINGTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7191</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ YORKTOWN ST</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.47126,29.731405,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ YORKTOWN ST</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7192</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ RICE AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.468475,29.731424,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ RICE AVE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7193</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ SAGE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.466911,29.731449,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ SAGE RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7194</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ MC CUE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.463646,29.731676,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ MC CUE RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7195</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ POST OAK BLVD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.461037,29.731783,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ POST OAK BLVD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7440</SimpleData>
+						<SimpleData name="STOP_NAME">PLAZAMERICAS</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">14</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">23</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.517365,29.705385,0</coordinates>
+				</Point>
+				<Name>PLAZAMERICAS</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7476</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ SEAGLER</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">2</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">4</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.555527,29.727753,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ SEAGLER</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7680</SimpleData>
+						<SimpleData name="STOP_NAME">REIMS RD @ CLAREWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51561700000001,29.710054,0</coordinates>
+				</Point>
+				<Name>REIMS RD @ CLAREWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7681</SimpleData>
+						<SimpleData name="STOP_NAME">REIMS RD @ BELLERIVE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.515671,29.712828,0</coordinates>
+				</Point>
+				<Name>REIMS RD @ BELLERIVE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7686</SimpleData>
+						<SimpleData name="STOP_NAME">REIMS RD @ CLAREWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51577,29.709852,0</coordinates>
+				</Point>
+				<Name>REIMS RD @ CLAREWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7689</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ GULFTON DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52006499999999,29.714537,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ GULFTON DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7690</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ PRESTWOOD DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51984400000002,29.71612,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ PRESTWOOD DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7691</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ HARWIN DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.519875,29.718458,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ HARWIN DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7692</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ WESTPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.51992000000001,29.72032,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ WESTPARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7693</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ WESTPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52037799999999,29.722864,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ WESTPARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7694</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ LIPAN RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.520393,29.723675,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ LIPAN RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7695</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ PAGEWOOD LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.520432,29.72604,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ PAGEWOOD LN</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7696</SimpleData>
+						<SimpleData name="STOP_NAME">FONDREN RD @ RICHMOND AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52043900000001,29.728777,0</coordinates>
+				</Point>
+				<Name>FONDREN RD @ RICHMOND AVE</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7727</SimpleData>
+						<SimpleData name="STOP_NAME">SOUTHWEST FREEWAY   @ TOURS DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52175099999998,29.697374,0</coordinates>
+				</Point>
+				<Name>SOUTHWEST FREEWAY   @ TOURS DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7728</SimpleData>
+						<SimpleData name="STOP_NAME">SOUTHWEST FREEWAY   @ CARVEL LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.52394099999999,29.695362,0</coordinates>
+				</Point>
+				<Name>SOUTHWEST FREEWAY   @ CARVEL LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7845</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ SKYMEADOW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.605835,29.727779,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ SKYMEADOW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7846</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WESTPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.605019,29.724009,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WESTPARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7847</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ ASHFORD POINT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604927,29.720083,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ ASHFORD POINT DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7879</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ WESTPARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.604767,29.723652,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ WESTPARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7880</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ SKYMEADOW DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60556,29.728085,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ SKYMEADOW DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7881</SimpleData>
+						<SimpleData name="STOP_NAME">DAIRY ASHFORD RD @ RICHMOND AVE</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60560599999999,29.729481,0</coordinates>
+				</Point>
+				<Name>DAIRY ASHFORD RD @ RICHMOND AVE</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7914</SimpleData>
+						<SimpleData name="STOP_NAME">ALIEF CLODINE RD @ ELDRIDGE PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.62375600000001,29.712519,0</coordinates>
+				</Point>
+				<Name>ALIEF CLODINE RD @ ELDRIDGE PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7921</SimpleData>
+						<SimpleData name="STOP_NAME">ALIEF CLODINE RD @ ELDRIDGE PKWY</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.62432099999999,29.712284,0</coordinates>
+				</Point>
+				<Name>ALIEF CLODINE RD @ ELDRIDGE PKWY</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7955</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ SHADOWBRIAR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.600159,29.72974200000001,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ SHADOWBRIAR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7956</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WESTMINSTER PLAZA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.59516099999999,29.730141,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WESTMINSTER PLAZA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7957</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WEST HOUSTON CENTER</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.59275800000002,29.730598,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WEST HOUSTON CENTER</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7959</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WOODLAND PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.58049,29.727932,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WOODLAND PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7960</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ HAYES RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.57632400000001,29.727745,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ HAYES RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7961</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ HAYES RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.57408100000001,29.727619,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ HAYES RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7962</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WILCREST DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.571899,29.727631,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WILCREST DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7963</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WALNUT BEND LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.56826,29.727676,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WALNUT BEND LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7964</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WALNUT BEND LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.56498700000002,29.727715,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WALNUT BEND LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7965</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WALNUT BEND LN</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.562096,29.727602,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WALNUT BEND LN</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7966</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ ROGERDALE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">1</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.559898,29.727507,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ ROGERDALE RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7967</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ ROGERDALE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.559517,29.727755,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ ROGERDALE RD</Name>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#missing_vehicles35</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7968</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ ROGERDALE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">1</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">2</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.562065,29.727816,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ ROGERDALE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7969</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WOODLAND PARK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.58000199999999,29.728043,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WOODLAND PARK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7970</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ KIRKWOOD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.588341,29.731329,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ KIRKWOOD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7971</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WEST HOUSTON CENTER</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.59219400000001,29.730844,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WEST HOUSTON CENTER</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7972</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WESTMINSTER PLAZA DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.59474899999999,29.730516,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WESTMINSTER PLAZA DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7973</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ SHADOWBRIAR DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.599518,29.72995,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ SHADOWBRIAR DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">7974</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ DAIRY ASHFORD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60432400000001,29.729897,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ DAIRY ASHFORD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8015</SimpleData>
+						<SimpleData name="STOP_NAME">SYNOTT RD @ ALIEF CLODINE RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.61457799999999,29.714041,0</coordinates>
+				</Point>
+				<Name>SYNOTT RD @ ALIEF CLODINE RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8016</SimpleData>
+						<SimpleData name="STOP_NAME">SYNOTT RD @ ASHFORD POINT DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.61499000000001,29.716286,0</coordinates>
+				</Point>
+				<Name>SYNOTT RD @ ASHFORD POINT DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8017</SimpleData>
+						<SimpleData name="STOP_NAME">ASHFORD POINT DR @ BRANT ROCK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.613609,29.71725500000001,0</coordinates>
+				</Point>
+				<Name>ASHFORD POINT DR @ BRANT ROCK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8018</SimpleData>
+						<SimpleData name="STOP_NAME">ASHFORD POINT DR @ OVERTURE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.61288500000001,29.719479,0</coordinates>
+				</Point>
+				<Name>ASHFORD POINT DR @ OVERTURE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8019</SimpleData>
+						<SimpleData name="STOP_NAME">ASHFORD POINT DR @ ASHBURNHAM DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.61122899999999,29.719477,0</coordinates>
+				</Point>
+				<Name>ASHFORD POINT DR @ ASHBURNHAM DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8020</SimpleData>
+						<SimpleData name="STOP_NAME">ASHFORD POINT DR @ ASHBURNHAM DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60889399999999,29.719515,0</coordinates>
+				</Point>
+				<Name>ASHFORD POINT DR @ ASHBURNHAM DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8021</SimpleData>
+						<SimpleData name="STOP_NAME">ASHFORD POINT DR @ DAIRY ASHFORD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.60597199999999,29.71969,0</coordinates>
+				</Point>
+				<Name>ASHFORD POINT DR @ DAIRY ASHFORD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8022</SimpleData>
+						<SimpleData name="STOP_NAME">ASHFORD POINT DR @ DAIRY ASHFORD RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.608711,29.720104,0</coordinates>
+				</Point>
+				<Name>ASHFORD POINT DR @ DAIRY ASHFORD RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8023</SimpleData>
+						<SimpleData name="STOP_NAME">ASHFORD POINT DR @ ASHBURNHAM DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.611,29.720079,0</coordinates>
+				</Point>
+				<Name>ASHFORD POINT DR @ ASHBURNHAM DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8024</SimpleData>
+						<SimpleData name="STOP_NAME">ASHFORD POINT DR @ OVERTURE DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.613426,29.719992,0</coordinates>
+				</Point>
+				<Name>ASHFORD POINT DR @ OVERTURE DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8025</SimpleData>
+						<SimpleData name="STOP_NAME">ASHFORD POINT DR @ BRANT ROCK DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.61406699999999,29.717758,0</coordinates>
+				</Point>
+				<Name>ASHFORD POINT DR @ BRANT ROCK DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8026</SimpleData>
+						<SimpleData name="STOP_NAME">ASHFORD POINT DR @ SYNOTT RD</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.61483800000001,29.716721,0</coordinates>
+				</Point>
+				<Name>ASHFORD POINT DR @ SYNOTT RD</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8246</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ WESTCENTER DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.553658,29.727619,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ WESTCENTER DR</Name>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Metro_Info">
+						<SimpleData name="STOP_CODE">8247</SimpleData>
+						<SimpleData name="STOP_NAME">RICHMOND AVE @ UNITY DR</SimpleData>
+						<SimpleData name="MISSING_VEHICLES">0</SimpleData>
+						<SimpleData name="TOTAL_VEHICLES">0</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.49807700000001,29.73156,0</coordinates>
+				</Point>
+				<Name>RICHMOND AVE @ UNITY DR</Name>
+			</Placemark>
+			<Schema name="Metro_Info" id="Metro_Info">
+    <SimpleField name="STOP_CODE" type="string"></SimpleField>
+    <SimpleField name="STOP_NAME" type="string"></SimpleField>
+    <SimpleField name="MISSING_VEHICLES" type="int"></SimpleField>
+    <SimpleField name="TOTAL_VEHICLES" type="int"></SimpleField>
+</Schema>
+		
+
+
+</Document>
+</kml>
+

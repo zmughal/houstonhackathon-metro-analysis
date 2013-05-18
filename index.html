@@ -26,7 +26,6 @@
 
 	<script src="http://cdn.leafletjs.com/leaflet-0.5/leaflet.js"></script>
 	<script>
-
 		var houston_latlong = [29.752778, -95.363056];
 		var map = L.map('map').setView(houston_latlong, 14);
 
@@ -35,6 +34,7 @@
 			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>'
 		}).addTo(map);
 
+		// http://www.arcgis.com/home/item.html?id=da76de09076b4959ad005e1dc2c48049
 		var incomeMapUrl = 'http://server.arcgisonline.com/ArcGIS/rest/services/Demographics/USA_Median_Household_Income/MapServer/tile/{z}/{y}/{x}';
 		var incomeMapLayer = new L.tileLayer(incomeMapUrl, {
 			maxZoom: 25,

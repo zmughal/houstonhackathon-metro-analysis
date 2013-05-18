@@ -26,10 +26,23 @@
 
 	<script src="http://cdn.leafletjs.com/leaflet-0.5/leaflet.js"></script>
 	<script src="leaflet-plugins/layer/vector/KML.js"></script>
+	<div id="stops">
+		<ul>
+			<li><a class="#route" id="route-21000">42 HOLMAN CROSSTOWN</a></li>
+		</ul>
+	</div>
 	<script>
+		var route = "21000"
+		$(document).ready(function() {
+			$("route-"+route).click(function() {
+				var track = new L.KML("route_shape/route/MetroRoute_" + route + ".kml", {async: true});
+				track.on("loaded", function(e) { map.fitBounds(e.target.getBounds()); });
+				map.addLayer(track);
+				map.addControl(new L.Control.Layers({}, {'Track':track}));
+			});
+		});
 		var houston_latlong = [29.752778, -95.363056];
-		//var map = L.map('map').setView(houston_latlong, 14);
-		var map = L.map('map');
+		var map = L.map('map').setView(houston_latlong, 14);
 
 		L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png', {
 			maxZoom: 18,
@@ -37,16 +50,19 @@
 		}).addTo(map);
 
 		// http://www.arcgis.com/home/item.html?id=da76de09076b4959ad005e1dc2c48049
+		/*
 		var incomeMapUrl = 'http://server.arcgisonline.com/ArcGIS/rest/services/Demographics/USA_Median_Household_Income/MapServer/tile/{z}/{y}/{x}';
 		var incomeMapLayer = new L.tileLayer(incomeMapUrl, {
 			maxZoom: 25,
 			opacity: 0.75,
 			attribution: 'Tiles: &copy; Esri'
 		}).addTo(map);
+		*/
 
 		//var track = new L.KML("route_shape/MetroData20120922.kmz", {async: true});
-		var track = new L.KML("route_shape/MetroData20120922.kml", {async: true});
+		//var track = new L.KML("route_shape/MetroData20120922.kml", {async: true});
 		//var track = new L.KML("route_shape/mapperz-kml-example.kml", {async: true});
+		var track = new L.KML("route_shape/route/MetroRoute_21000.kml", {async: true});
 		track.on("loaded", function(e) { map.fitBounds(e.target.getBounds()); });
 		map.addLayer(track);
 		map.addControl(new L.Control.Layers({}, {'Track':track}));
